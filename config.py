@@ -25,6 +25,7 @@ TS_SCHEMA_NAME = "dig-ed-cat"
 
 MANDATORY_FIELDS = ["id", "edition-name", "url"]
 
+#  fields listed here expect multiple values separated with ";"
 FACET_FIELDS = [
     "language",
     "writing-support",
@@ -39,6 +40,7 @@ FACET_FIELDS = [
     "website-language",
 ]
 
+#  fields listed here contain unique values
 NO_FACET_FIELDS = [
     "edition-name",
     "url",

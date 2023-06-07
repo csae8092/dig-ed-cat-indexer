@@ -28,7 +28,6 @@ labels = {slugify(x): x for x in df.keys()}
 df.columns = labels.keys()
 editions = df.to_dict(orient="records")
 
-
 print(f"fetching {INSTITUTIONS}")
 df = pd.read_csv(INSTITUTIONS).head(-1)
 df = df.astype("str")
