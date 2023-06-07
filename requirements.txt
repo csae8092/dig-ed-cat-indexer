@@ -1,0 +1,5 @@
+pandas
+typesense
+python-slugify
+flake8
+black
