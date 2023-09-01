@@ -6,10 +6,16 @@ def make_schema(record, ts_schema_name, mandatory_fields, no_facet_field):
     TS_SCHEMA = {"name": ts_schema_name, "enable_nested_fields": True, "fields": []}
     for key, value in record.items():
         if key in mandatory_fields:
-            TS_SCHEMA["fields"].append({"name": key, "type": "string"})
+            TS_SCHEMA["fields"].append({"name": key, "type": "string", "sort": True})
         elif key in no_facet_field:
             TS_SCHEMA["fields"].append(
-                {"name": key, "type": "string", "facet": False, "optional": True}
+                {
+                    "name": key,
+                    "type": "string",
+                    "facet": False,
+                    "optional": True,
+                    "sort": True,
+                }
             )
         elif isinstance(value, list):
             if isinstance(value[0], dict):
