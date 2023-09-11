@@ -30,7 +30,7 @@ jobs:
         rm -rf ./html
         mkdir ./html
         mv *.json ./html/
-        cp index.html ./index.html
+        cp index.html ./html/index.html
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
