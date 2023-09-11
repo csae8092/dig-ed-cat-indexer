@@ -1,0 +1,318 @@
+{
+    "name": "dig-ed-cat",
+    "enable_nested_fields": true,
+    "fields": [
+        {
+            "name": "historical-period",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "time-century",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "edition-name",
+            "type": "string",
+            "sort": true
+        },
+        {
+            "name": "url",
+            "type": "string",
+            "sort": true
+        },
+        {
+            "name": "scholarly",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "digital",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "edition",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "language",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "writing-support",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "begin-date",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "end-date",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "manager-or-editor",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "institution-s",
+            "type": "object[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "audience",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "philological-statement",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "account-of-textual-variance",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "value-of-witnesses",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "xml-tei-transcription",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "xml-tei-available-to-download",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "images",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "zoom-images",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "image-manipulation-brightness-rotation-etc",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "text-image-linking",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "source-text-translation",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "website-language",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "glossary",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "indices",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "string-matching",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "advanced-search",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "creative-commons-license",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "open-source-open-access",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "linked-open-data",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "api",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "crowdsourcing",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "feedback",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "technological-statement",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "links-to-ext-resources",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "ocr-or-keyed",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "mobile-friendly-application",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "print-friendly-view",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "print-facsimile-complementary-output",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "repository-of-source-material-s",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "place-of-origin-of-source-material-s",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "sponsor-funding-body",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "budget-rough",
+            "type": "string",
+            "facet": false,
+            "optional": true,
+            "sort": true
+        },
+        {
+            "name": "infrastructure",
+            "type": "string[]",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "current-availability",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "ride-review",
+            "type": "string",
+            "facet": false,
+            "optional": true,
+            "sort": true
+        },
+        {
+            "name": "sahle-catalog",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "citation",
+            "type": "string",
+            "facet": true,
+            "optional": true
+        },
+        {
+            "name": "handle-pid",
+            "type": "string",
+            "facet": false,
+            "optional": true,
+            "sort": true
+        },
+        {
+            "name": "id",
+            "type": "string",
+            "sort": true
+        }
+    ]
+}
