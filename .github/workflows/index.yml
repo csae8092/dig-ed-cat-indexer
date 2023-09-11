@@ -21,6 +21,18 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-    - name: Index
+    - name: Index and Network Graph
       run: |
         python index.py
+        python make_network_graph.py
+    - name: create and populate html folder
+      run: |
+        rm -rf ./html
+        mkdir ./html
+        mv *.json ./html/
+        cp index.html ./index.html
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        publish_dir: ./html
