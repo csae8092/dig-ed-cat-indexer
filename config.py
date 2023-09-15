@@ -27,6 +27,7 @@ MANDATORY_FIELDS = ["id", "edition-name", "url"]
 
 #  fields listed here expect multiple values separated with ";"
 FACET_FIELDS = [
+    "historical-period",
     "language",
     "writing-support",
     "manager-or-editor",
