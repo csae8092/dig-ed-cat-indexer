@@ -71,7 +71,7 @@ for x in data:
         # persons
         for p in x["manager-or-editor"]:
             person = {"key": p, "attributes": {"label": p, "type": "Person"}}
-            persons[p].append(person)
+            persons[p] = person
             edge = {
                 "key": f"{p}-{edition_id}",
                 "source": p,
