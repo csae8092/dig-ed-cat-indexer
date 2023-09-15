@@ -5637,5211 +5637,2421 @@
         "type": "Country"
       }
     },
-    [
-      {
-        "key": "Torsten Schaßan",
-        "attributes": {
-          "label": "Torsten Schaßan",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alexander Huber",
-        "attributes": {
-          "label": "Alexander Huber",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alexander Huber",
-        "attributes": {
-          "label": "Alexander Huber",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alexander Roberts",
-        "attributes": {
-          "label": "Alexander Roberts",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dafydd Johnston",
-        "attributes": {
-          "label": "Dafydd Johnston",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Franz Fischer",
-        "attributes": {
-          "label": "Franz Fischer",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Franz Fischer",
-        "attributes": {
-          "label": "Franz Fischer",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Franz Fischer",
-        "attributes": {
-          "label": "Franz Fischer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anthony Harvey",
-        "attributes": {
-          "label": "Anthony Harvey",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Antonio Olivieri",
-        "attributes": {
-          "label": "Antonio Olivieri",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Antony McKenna",
-        "attributes": {
-          "label": "Antony McKenna",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Antony McKenna",
-        "attributes": {
-          "label": "Antony McKenna",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Charles Crowther",
-        "attributes": {
-          "label": "Charles Crowther",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charles Crowther",
-        "attributes": {
-          "label": "Charles Crowther",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alan Bowman",
-        "attributes": {
-          "label": "Alan Bowman",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alan Bowman",
-        "attributes": {
-          "label": "Alan Bowman",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christof Schöch",
-        "attributes": {
-          "label": "Christof Schöch",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Claire Breay",
-        "attributes": {
-          "label": "Claire Breay",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Claire Breay",
-        "attributes": {
-          "label": "Claire Breay",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Claire Breay",
-        "attributes": {
-          "label": "Claire Breay",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Claire Breay",
-        "attributes": {
-          "label": "Claire Breay",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Leander Seige",
-        "attributes": {
-          "label": "Leander Seige",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Leander Seige",
-        "attributes": {
-          "label": "Leander Seige",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Leander Seige",
-        "attributes": {
-          "label": "Leander Seige",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Leander Seige",
-        "attributes": {
-          "label": "Leander Seige",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Father Justin",
-        "attributes": {
-          "label": "Father Justin",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Father Justin",
-        "attributes": {
-          "label": "Father Justin",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Father Justin",
-        "attributes": {
-          "label": "Father Justin",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Father Justin",
-        "attributes": {
-          "label": "Father Justin",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ekaterina Krushelnitskaya",
-        "attributes": {
-          "label": "Ekaterina Krushelnitskaya",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Ekaterina Krushelnitskaya",
-        "attributes": {
-          "label": "Ekaterina Krushelnitskaya",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Ekaterina Krushelnitskaya",
-        "attributes": {
-          "label": "Ekaterina Krushelnitskaya",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Ekaterina Krushelnitskaya",
-        "attributes": {
-          "label": "Ekaterina Krushelnitskaya",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Colin Jones",
-        "attributes": {
-          "label": "Colin Jones",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dániel Kiss",
-        "attributes": {
-          "label": "Dániel Kiss",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David J. Birnbaum",
-        "attributes": {
-          "label": "David J. Birnbaum",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "David J. Birnbaum",
-        "attributes": {
-          "label": "David J. Birnbaum",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "David J. Birnbaum",
-        "attributes": {
-          "label": "David J. Birnbaum",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David Rollason",
-        "attributes": {
-          "label": "David Rollason",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "David Rollason",
-        "attributes": {
-          "label": "David Rollason",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dirk Van Hulle",
-        "attributes": {
-          "label": "Dirk Van Hulle",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dirk Van Hulle",
-        "attributes": {
-          "label": "Dirk Van Hulle",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dirk Van Hulle",
-        "attributes": {
-          "label": "Dirk Van Hulle",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dirk Van Hulle",
-        "attributes": {
-          "label": "Dirk Van Hulle",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Donald J. Mastronarde",
-        "attributes": {
-          "label": "Donald J. Mastronarde",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Douglas B. Killings",
-        "attributes": {
-          "label": "Douglas B. Killings",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Penny Simons",
-        "attributes": {
-          "label": "Penny Simons",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Beth Hartland",
-        "attributes": {
-          "label": "Beth Hartland",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Beth Hartland",
-        "attributes": {
-          "label": "Beth Hartland",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Harold Short",
-        "attributes": {
-          "label": "Harold Short",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Harold Short",
-        "attributes": {
-          "label": "Harold Short",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Arianna Ciula",
-        "attributes": {
-          "label": "Arianna Ciula",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Arianna Ciula",
-        "attributes": {
-          "label": "Arianna Ciula",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David Carpenter",
-        "attributes": {
-          "label": "David Carpenter",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "David Carpenter",
-        "attributes": {
-          "label": "David Carpenter",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David Crook",
-        "attributes": {
-          "label": "David Crook",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "David Crook",
-        "attributes": {
-          "label": "David Crook",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Sean Cunningham",
-        "attributes": {
-          "label": "Sean Cunningham",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Sean Cunningham",
-        "attributes": {
-          "label": "Sean Cunningham",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paul Dryburgh",
-        "attributes": {
-          "label": "Paul Dryburgh",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paul Dryburgh",
-        "attributes": {
-          "label": "Paul Dryburgh",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Louise Wilkinson",
-        "attributes": {
-          "label": "Louise Wilkinson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Louise Wilkinson",
-        "attributes": {
-          "label": "Louise Wilkinson",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Fritz Nagel",
-        "attributes": {
-          "label": "Fritz Nagel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Giuseppe Bonghi",
-        "attributes": {
-          "label": "Giuseppe Bonghi",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Heidi Eisenhut",
-        "attributes": {
-          "label": "Heidi Eisenhut",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Irene Polinskaya",
-        "attributes": {
-          "label": "Irene Polinskaya",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Irene Polinskaya",
-        "attributes": {
-          "label": "Irene Polinskaya",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Irene Polinskaya",
-        "attributes": {
-          "label": "Irene Polinskaya",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "John O'Neill",
-        "attributes": {
-          "label": "John O'Neill",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Julia Merritt",
-        "attributes": {
-          "label": "Julia Merritt",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Julia Merritt",
-        "attributes": {
-          "label": "Julia Merritt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthew Symonds",
-        "attributes": {
-          "label": "Matthew Symonds",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paddy Bullard",
-        "attributes": {
-          "label": "Paddy Bullard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paddy Bullard",
-        "attributes": {
-          "label": "Paddy Bullard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paddy Bullard",
-        "attributes": {
-          "label": "Paddy Bullard",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Pádraic Moran",
-        "attributes": {
-          "label": "Pádraic Moran",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paolo D'Iorio",
-        "attributes": {
-          "label": "Paolo D'Iorio",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paul Russell",
-        "attributes": {
-          "label": "Paul Russell",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paulina Kewes",
-        "attributes": {
-          "label": "Paulina Kewes",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "William Barker",
-        "attributes": {
-          "label": "William Barker",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Eduardo Urbina",
-        "attributes": {
-          "label": "Eduardo Urbina",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Francesco Stella",
-        "attributes": {
-          "label": "Francesco Stella",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Francesco Stella",
-        "attributes": {
-          "label": "Francesco Stella",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gary A. Rendsburg",
-        "attributes": {
-          "label": "Gary A. Rendsburg",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "James Laidlaw",
-        "attributes": {
-          "label": "James Laidlaw",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "not provided",
-        "attributes": {
-          "label": "not provided",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "James A. Secord",
-        "attributes": {
-          "label": "James A. Secord",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "James A. Secord",
-        "attributes": {
-          "label": "James A. Secord",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Edward Vanhoutte",
-        "attributes": {
-          "label": "Edward Vanhoutte",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Edward Vanhoutte",
-        "attributes": {
-          "label": "Edward Vanhoutte",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Edward Vanhoutte",
-        "attributes": {
-          "label": "Edward Vanhoutte",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Edward Vanhoutte",
-        "attributes": {
-          "label": "Edward Vanhoutte",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Edward Vanhoutte",
-        "attributes": {
-          "label": "Edward Vanhoutte",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alastair Bellany",
-        "attributes": {
-          "label": "Alastair Bellany",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Andrew McRae",
-        "attributes": {
-          "label": "Andrew McRae",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Barbara Mowat",
-        "attributes": {
-          "label": "Barbara Mowat",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paul Werstine",
-        "attributes": {
-          "label": "Paul Werstine",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Stuart Curran",
-        "attributes": {
-          "label": "Stuart Curran",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Stuart Curran",
-        "attributes": {
-          "label": "Stuart Curran",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Martin Morard",
-        "attributes": {
-          "label": "Martin Morard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Morard",
-        "attributes": {
-          "label": "Martin Morard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Morard",
-        "attributes": {
-          "label": "Martin Morard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Morard",
-        "attributes": {
-          "label": "Martin Morard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Morard",
-        "attributes": {
-          "label": "Martin Morard",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Marjorie Burghart",
-        "attributes": {
-          "label": "Marjorie Burghart",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marjorie Burghart",
-        "attributes": {
-          "label": "Marjorie Burghart",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marjorie Burghart",
-        "attributes": {
-          "label": "Marjorie Burghart",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marjorie Burghart",
-        "attributes": {
-          "label": "Marjorie Burghart",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marjorie Burghart",
-        "attributes": {
-          "label": "Marjorie Burghart",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Thomas Burch",
-        "attributes": {
-          "label": "Thomas Burch",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Thomas Burch",
-        "attributes": {
-          "label": "Thomas Burch",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jan Halvor Undlien",
-        "attributes": {
-          "label": "Jan Halvor Undlien",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Frode Helland",
-        "attributes": {
-          "label": "Frode Helland",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anh Q. Bui",
-        "attributes": {
-          "label": "Anh Q. Bui",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Anh Q. Bui",
-        "attributes": {
-          "label": "Anh Q. Bui",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Victor Fischer",
-        "attributes": {
-          "label": "Victor Fischer",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Victor Fischer",
-        "attributes": {
-          "label": "Victor Fischer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "et al.",
-        "attributes": {
-          "label": "et al.",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "et al.",
-        "attributes": {
-          "label": "et al.",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Roberto Gusmani",
-        "attributes": {
-          "label": "Roberto Gusmani",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christiane Marchello-Nizia",
-        "attributes": {
-          "label": "Christiane Marchello-Nizia",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alexei Lavrentiev",
-        "attributes": {
-          "label": "Alexei Lavrentiev",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David Burnley",
-        "attributes": {
-          "label": "David Burnley",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alison Wiggins",
-        "attributes": {
-          "label": "Alison Wiggins",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Lauren Kassell",
-        "attributes": {
-          "label": "Lauren Kassell",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "James J. O'Donnell",
-        "attributes": {
-          "label": "James J. O'Donnell",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ioanna Papadopoulou",
-        "attributes": {
-          "label": "Ioanna Papadopoulou",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Ioanna Papadopoulou",
-        "attributes": {
-          "label": "Ioanna Papadopoulou",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Ioanna Papadopoulou",
-        "attributes": {
-          "label": "Ioanna Papadopoulou",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Various",
-        "attributes": {
-          "label": "Various",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Clive Emsley",
-        "attributes": {
-          "label": "Clive Emsley",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tim Hitchcock",
-        "attributes": {
-          "label": "Tim Hitchcock",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Robert Shoemaker",
-        "attributes": {
-          "label": "Robert Shoemaker",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Richard Cave",
-        "attributes": {
-          "label": "Richard Cave",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Richard Cave",
-        "attributes": {
-          "label": "Richard Cave",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Mehmet Kalpakli",
-        "attributes": {
-          "label": "Mehmet Kalpakli",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Walter G. Andrews",
-        "attributes": {
-          "label": "Walter G. Andrews",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David O’Shaughnessy",
-        "attributes": {
-          "label": "David O’Shaughnessy",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Mark Philp",
-        "attributes": {
-          "label": "Mark Philp",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Victoria Myers",
-        "attributes": {
-          "label": "Victoria Myers",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gerlinde Wolsleben",
-        "attributes": {
-          "label": "Gerlinde Wolsleben",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Hayim Lapin",
-        "attributes": {
-          "label": "Hayim Lapin",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ian W. Scott",
-        "attributes": {
-          "label": "Ian W. Scott",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "James S. Snyder",
-        "attributes": {
-          "label": "James S. Snyder",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "James S. Snyder",
-        "attributes": {
-          "label": "James S. Snyder",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jan Burgers",
-        "attributes": {
-          "label": "Jan Burgers",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Jan Burgers",
-        "attributes": {
-          "label": "Jan Burgers",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "José Manuel Lucía Megías",
-        "attributes": {
-          "label": "José Manuel Lucía Megías",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Katherine Walter",
-        "attributes": {
-          "label": "Katherine Walter",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Katherine Walter",
-        "attributes": {
-          "label": "Katherine Walter",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Katherine Walter",
-        "attributes": {
-          "label": "Katherine Walter",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Katherine Walter",
-        "attributes": {
-          "label": "Katherine Walter",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Katherine Walter",
-        "attributes": {
-          "label": "Katherine Walter",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Kevin Kiernan",
-        "attributes": {
-          "label": "Kevin Kiernan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Kevin Kiernan",
-        "attributes": {
-          "label": "Kevin Kiernan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Kevin Kiernan",
-        "attributes": {
-          "label": "Kevin Kiernan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Kevin Kiernan",
-        "attributes": {
-          "label": "Kevin Kiernan",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Kristopher Grint",
-        "attributes": {
-          "label": "Kristopher Grint",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Kristopher Grint",
-        "attributes": {
-          "label": "Kristopher Grint",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Lou Burnard",
-        "attributes": {
-          "label": "Lou Burnard",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Lou Burnard",
-        "attributes": {
-          "label": "Lou Burnard",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Luc Herren",
-        "attributes": {
-          "label": "Luc Herren",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "María de las Nieves Muñiz",
-        "attributes": {
-          "label": "María de las Nieves Muñiz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Mary Costigan",
-        "attributes": {
-          "label": "Mary Costigan",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Matthew Bailey",
-        "attributes": {
-          "label": "Matthew Bailey",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michael Arnott",
-        "attributes": {
-          "label": "Michael Arnott",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michael Hendry",
-        "attributes": {
-          "label": "Michael Hendry",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Michael Hendry",
-        "attributes": {
-          "label": "Michael Hendry",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Michael Hendry",
-        "attributes": {
-          "label": "Michael Hendry",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Michael Hendry",
-        "attributes": {
-          "label": "Michael Hendry",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Michael Hendry",
-        "attributes": {
-          "label": "Michael Hendry",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Michael Hendry",
-        "attributes": {
-          "label": "Michael Hendry",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michele Ansani",
-        "attributes": {
-          "label": "Michele Ansani",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Murray McGillivray",
-        "attributes": {
-          "label": "Murray McGillivray",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Nino Zubović",
-        "attributes": {
-          "label": "Nino Zubović",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paul Spence",
-        "attributes": {
-          "label": "Paul Spence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paul Spence",
-        "attributes": {
-          "label": "Paul Spence",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Peter Robinson",
-        "attributes": {
-          "label": "Peter Robinson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Peter Robinson",
-        "attributes": {
-          "label": "Peter Robinson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Peter Robinson",
-        "attributes": {
-          "label": "Peter Robinson",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Joachim Veit",
-        "attributes": {
-          "label": "Joachim Veit",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Joachim Veit",
-        "attributes": {
-          "label": "Joachim Veit",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Joachim Veit",
-        "attributes": {
-          "label": "Joachim Veit",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Joachim Veit",
-        "attributes": {
-          "label": "Joachim Veit",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Joachim Veit",
-        "attributes": {
-          "label": "Joachim Veit",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Peter Stadler",
-        "attributes": {
-          "label": "Peter Stadler",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Peter Stadler",
-        "attributes": {
-          "label": "Peter Stadler",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Adrian S. Wisnicki",
-        "attributes": {
-          "label": "Adrian S. Wisnicki",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Adrian S. Wisnicki",
-        "attributes": {
-          "label": "Adrian S. Wisnicki",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Adrian S. Wisnicki",
-        "attributes": {
-          "label": "Adrian S. Wisnicki",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Adrian S. Wisnicki",
-        "attributes": {
-          "label": "Adrian S. Wisnicki",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Adrian S. Wisnicki",
-        "attributes": {
-          "label": "Adrian S. Wisnicki",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bruno Bureau",
-        "attributes": {
-          "label": "Bruno Bureau",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bruno Bureau",
-        "attributes": {
-          "label": "Bruno Bureau",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bruno Bureau",
-        "attributes": {
-          "label": "Bruno Bureau",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bruno Bureau",
-        "attributes": {
-          "label": "Bruno Bureau",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charlotte Roueché",
-        "attributes": {
-          "label": "Charlotte Roueché",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christoph Flüeler",
-        "attributes": {
-          "label": "Christoph Flüeler",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christoph Flüeler",
-        "attributes": {
-          "label": "Christoph Flüeler",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christoph Flüeler",
-        "attributes": {
-          "label": "Christoph Flüeler",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christoph Flüeler",
-        "attributes": {
-          "label": "Christoph Flüeler",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christoph Flüeler",
-        "attributes": {
-          "label": "Christoph Flüeler",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dana Sutton",
-        "attributes": {
-          "label": "Dana Sutton",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dana Sutton",
-        "attributes": {
-          "label": "Dana Sutton",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David Williams",
-        "attributes": {
-          "label": "David Williams",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dorothy Severin",
-        "attributes": {
-          "label": "Dorothy Severin",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dorothy Severin",
-        "attributes": {
-          "label": "Dorothy Severin",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dorothy Severin",
-        "attributes": {
-          "label": "Dorothy Severin",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Günter Stock",
-        "attributes": {
-          "label": "Günter Stock",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gerhard Schmitz",
-        "attributes": {
-          "label": "Gerhard Schmitz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Veronika Lukas",
-        "attributes": {
-          "label": "Veronika Lukas",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Grant Frame",
-        "attributes": {
-          "label": "Grant Frame",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Joel W. Fredell",
-        "attributes": {
-          "label": "Joel W. Fredell",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Joel W. Fredell",
-        "attributes": {
-          "label": "Joel W. Fredell",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "John Kilcullen",
-        "attributes": {
-          "label": "John Kilcullen",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "John Palmer",
-        "attributes": {
-          "label": "John Palmer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "John Rink",
-        "attributes": {
-          "label": "John Rink",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Kathryn Sutherland",
-        "attributes": {
-          "label": "Kathryn Sutherland",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Kathryn Sutherland",
-        "attributes": {
-          "label": "Kathryn Sutherland",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Kenneth M. Price",
-        "attributes": {
-          "label": "Kenneth M. Price",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Marilyn Deegan",
-        "attributes": {
-          "label": "Marilyn Deegan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marilyn Deegan",
-        "attributes": {
-          "label": "Marilyn Deegan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marilyn Deegan",
-        "attributes": {
-          "label": "Marilyn Deegan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marilyn Deegan",
-        "attributes": {
-          "label": "Marilyn Deegan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marilyn Deegan",
-        "attributes": {
-          "label": "Marilyn Deegan",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Mark Greengrass",
-        "attributes": {
-          "label": "Mark Greengrass",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Mark Greengrass",
-        "attributes": {
-          "label": "Mark Greengrass",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Mark Greengrass",
-        "attributes": {
-          "label": "Mark Greengrass",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Mark Greengrass",
-        "attributes": {
-          "label": "Mark Greengrass",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Massimo Lollini",
-        "attributes": {
-          "label": "Massimo Lollini",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Massimo Riva",
-        "attributes": {
-          "label": "Massimo Riva",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Massimo Riva",
-        "attributes": {
-          "label": "Massimo Riva",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Massimo Riva",
-        "attributes": {
-          "label": "Massimo Riva",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michael Satlow",
-        "attributes": {
-          "label": "Michael Satlow",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Elli Mylonas",
-        "attributes": {
-          "label": "Elli Mylonas",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michael Stolz",
-        "attributes": {
-          "label": "Michael Stolz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michelangelo Picone",
-        "attributes": {
-          "label": "Michelangelo Picone",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Neil Fraistat",
-        "attributes": {
-          "label": "Neil Fraistat",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Peter Ainsworth",
-        "attributes": {
-          "label": "Peter Ainsworth",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Peter Ainsworth",
-        "attributes": {
-          "label": "Peter Ainsworth",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Peter Wynn Thomas",
-        "attributes": {
-          "label": "Peter Wynn Thomas",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Robert Iliffe",
-        "attributes": {
-          "label": "Robert Iliffe",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Roberto Rosselli Del Turco",
-        "attributes": {
-          "label": "Roberto Rosselli Del Turco",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Simone Albonico",
-        "attributes": {
-          "label": "Simone Albonico",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christopher Lawrence",
-        "attributes": {
-          "label": "Christopher Lawrence",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Raul Mordenti",
-        "attributes": {
-          "label": "Raul Mordenti",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Raymond Siemens",
-        "attributes": {
-          "label": "Raymond Siemens",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Sandrine Breuil",
-        "attributes": {
-          "label": "Sandrine Breuil",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Scott Garton",
-        "attributes": {
-          "label": "Scott Garton",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tim Causer",
-        "attributes": {
-          "label": "Tim Causer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Xavier Hélary",
-        "attributes": {
-          "label": "Xavier Hélary",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bernard J. Muir",
-        "attributes": {
-          "label": "Bernard J. Muir",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alice Boone",
-        "attributes": {
-          "label": "Alice Boone",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ben Vershbow",
-        "attributes": {
-          "label": "Ben Vershbow",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Eddie A. Tejeda",
-        "attributes": {
-          "label": "Eddie A. Tejeda",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christopher Mulvey",
-        "attributes": {
-          "label": "Christopher Mulvey",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alessandra Avanzini",
-        "attributes": {
-          "label": "Alessandra Avanzini",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alessandra Avanzini",
-        "attributes": {
-          "label": "Alessandra Avanzini",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gillian Evison",
-        "attributes": {
-          "label": "Gillian Evison",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Martha Nell Smith",
-        "attributes": {
-          "label": "Martha Nell Smith",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Lara Vetter",
-        "attributes": {
-          "label": "Lara Vetter",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paul Dijstelberge",
-        "attributes": {
-          "label": "Paul Dijstelberge",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paul Dijstelberge",
-        "attributes": {
-          "label": "Paul Dijstelberge",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paul Dijstelberge",
-        "attributes": {
-          "label": "Paul Dijstelberge",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anthony Grafton",
-        "attributes": {
-          "label": "Anthony Grafton",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Anthony Grafton",
-        "attributes": {
-          "label": "Anthony Grafton",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Anthony Grafton",
-        "attributes": {
-          "label": "Anthony Grafton",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Lisa Jardine",
-        "attributes": {
-          "label": "Lisa Jardine",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Lisa Jardine",
-        "attributes": {
-          "label": "Lisa Jardine",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Lisa Jardine",
-        "attributes": {
-          "label": "Lisa Jardine",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bart Jaski",
-        "attributes": {
-          "label": "Bart Jaski",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bart Jaski",
-        "attributes": {
-          "label": "Bart Jaski",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bart Jaski",
-        "attributes": {
-          "label": "Bart Jaski",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jürgen Pieters",
-        "attributes": {
-          "label": "Jürgen Pieters",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Jürgen Pieters",
-        "attributes": {
-          "label": "Jürgen Pieters",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Jürgen Pieters",
-        "attributes": {
-          "label": "Jürgen Pieters",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "William Sherman",
-        "attributes": {
-          "label": "William Sherman",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "William Sherman",
-        "attributes": {
-          "label": "William Sherman",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "William Sherman",
-        "attributes": {
-          "label": "William Sherman",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Els Stronks",
-        "attributes": {
-          "label": "Els Stronks",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Els Stronks",
-        "attributes": {
-          "label": "Els Stronks",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Els Stronks",
-        "attributes": {
-          "label": "Els Stronks",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Arnoud Visser",
-        "attributes": {
-          "label": "Arnoud Visser",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Arnoud Visser",
-        "attributes": {
-          "label": "Arnoud Visser",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Arnoud Visser",
-        "attributes": {
-          "label": "Arnoud Visser",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Isabella Truci",
-        "attributes": {
-          "label": "Isabella Truci",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paolo Galluzzi",
-        "attributes": {
-          "label": "Paolo Galluzzi",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jürgen Renn",
-        "attributes": {
-          "label": "Jürgen Renn",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Malte Rehbein",
-        "attributes": {
-          "label": "Malte Rehbein",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "John Bryant",
-        "attributes": {
-          "label": "John Bryant",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Cliff Eisen",
-        "attributes": {
-          "label": "Cliff Eisen",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Cliff Eisen",
-        "attributes": {
-          "label": "Cliff Eisen",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Cliff Eisen",
-        "attributes": {
-          "label": "Cliff Eisen",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Selim S. Kuru",
-        "attributes": {
-          "label": "Selim S. Kuru",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Barbara Timm Gates",
-        "attributes": {
-          "label": "Barbara Timm Gates",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Richard P. Rogers",
-        "attributes": {
-          "label": "Richard P. Rogers",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Liz Stanley",
-        "attributes": {
-          "label": "Liz Stanley",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Liz Stanley",
-        "attributes": {
-          "label": "Liz Stanley",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Liz Stanley",
-        "attributes": {
-          "label": "Liz Stanley",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "R. N. Tripathy",
-        "attributes": {
-          "label": "R. N. Tripathy",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dwight F. Reynolds",
-        "attributes": {
-          "label": "Dwight F. Reynolds",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Karsten Kynde",
-        "attributes": {
-          "label": "Karsten Kynde",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "C. James Taylor",
-        "attributes": {
-          "label": "C. James Taylor",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "David Walker",
-        "attributes": {
-          "label": "David Walker",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Pascal Mercier",
-        "attributes": {
-          "label": "Pascal Mercier",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Michael Pidd",
-        "attributes": {
-          "label": "Michael Pidd",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Robert Whalen",
-        "attributes": {
-          "label": "Robert Whalen",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christipher Hodgkins",
-        "attributes": {
-          "label": "Christipher Hodgkins",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "John P. Kaminski",
-        "attributes": {
-          "label": "John P. Kaminski",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gaspare J. Saladino",
-        "attributes": {
-          "label": "Gaspare J. Saladino",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Richard Leffler",
-        "attributes": {
-          "label": "Richard Leffler",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Charles H. Schoenleber",
-        "attributes": {
-          "label": "Charles H. Schoenleber",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Margaret A. Hogan",
-        "attributes": {
-          "label": "Margaret A. Hogan",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Holly C. Schulman",
-        "attributes": {
-          "label": "Holly C. Schulman",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Volker Schier",
-        "attributes": {
-          "label": "Volker Schier",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Corine Schleif",
-        "attributes": {
-          "label": "Corine Schleif",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Antony H. Harrison",
-        "attributes": {
-          "label": "Antony H. Harrison",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Cecil Y. Lang",
-        "attributes": {
-          "label": "Cecil Y. Lang",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Takako Kato",
-        "attributes": {
-          "label": "Takako Kato",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Takako Kato",
-        "attributes": {
-          "label": "Takako Kato",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Harold C. Syrett",
-        "attributes": {
-          "label": "Harold C. Syrett",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Constance Schulz",
-        "attributes": {
-          "label": "Constance Schulz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Edward G. Lengel",
-        "attributes": {
-          "label": "Edward G. Lengel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "J. C. A. Stagg",
-        "attributes": {
-          "label": "J. C. A. Stagg",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "James P. McClure",
-        "attributes": {
-          "label": "James P. McClure",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "J. Jefferson Looney",
-        "attributes": {
-          "label": "J. Jefferson Looney",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "N. G. Round",
-        "attributes": {
-          "label": "N. G. Round",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Rhian Davies",
-        "attributes": {
-          "label": "Rhian Davies",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jamie McLaughlin",
-        "attributes": {
-          "label": "Jamie McLaughlin",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Robert Helmerichs",
-        "attributes": {
-          "label": "Robert Helmerichs",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jamie Norrish",
-        "attributes": {
-          "label": "Jamie Norrish",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gerrit H.V. Bunt",
-        "attributes": {
-          "label": "Gerrit H.V. Bunt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Maria de las Nieves Muñiz Muñiz",
-        "attributes": {
-          "label": "Maria de las Nieves Muñiz Muñiz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Murtha Baca",
-        "attributes": {
-          "label": "Murtha Baca",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Nuria Rodríguez Ortega",
-        "attributes": {
-          "label": "Nuria Rodríguez Ortega",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anita Fajt",
-        "attributes": {
-          "label": "Anita Fajt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Charalambos Dendrinos",
-        "attributes": {
-          "label": "Charalambos Dendrinos",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Charalambos Dendrinos",
-        "attributes": {
-          "label": "Charalambos Dendrinos",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Pascale Sutter",
-        "attributes": {
-          "label": "Pascale Sutter",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Pascale Sutter",
-        "attributes": {
-          "label": "Pascale Sutter",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anna Skolimowska",
-        "attributes": {
-          "label": "Anna Skolimowska",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Kevin Hawkins",
-        "attributes": {
-          "label": "Kevin Hawkins",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Andrea Iantorno",
-        "attributes": {
-          "label": "Andrea Iantorno",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Janet L. Nelson",
-        "attributes": {
-          "label": "Janet L. Nelson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Janet L. Nelson",
-        "attributes": {
-          "label": "Janet L. Nelson",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alex Burghart",
-        "attributes": {
-          "label": "Alex Burghart",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alex Burghart",
-        "attributes": {
-          "label": "Alex Burghart",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tara Andrews",
-        "attributes": {
-          "label": "Tara Andrews",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Robert Carvais",
-        "attributes": {
-          "label": "Robert Carvais",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Emmanuel Château-Dutier",
-        "attributes": {
-          "label": "Emmanuel Château-Dutier",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Arndt Schreiber",
-        "attributes": {
-          "label": "Arndt Schreiber",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Arndt Schreiber",
-        "attributes": {
-          "label": "Arndt Schreiber",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Antoine Odier",
-        "attributes": {
-          "label": "Antoine Odier",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Antoine Odier",
-        "attributes": {
-          "label": "Antoine Odier",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christian Schwaderer",
-        "attributes": {
-          "label": "Christian Schwaderer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Yolanda Plumley",
-        "attributes": {
-          "label": "Yolanda Plumley",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Giuliano Di Bacco",
-        "attributes": {
-          "label": "Giuliano Di Bacco",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tamsyn Rose-Steel",
-        "attributes": {
-          "label": "Tamsyn Rose-Steel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gary Stringer",
-        "attributes": {
-          "label": "Gary Stringer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dalia Mendelsson",
-        "attributes": {
-          "label": "Dalia Mendelsson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Dalia Mendelsson",
-        "attributes": {
-          "label": "Dalia Mendelsson",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Enrica Salvatori",
-        "attributes": {
-          "label": "Enrica Salvatori",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Enrica Salvatori",
-        "attributes": {
-          "label": "Enrica Salvatori",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Enrica Salvatori",
-        "attributes": {
-          "label": "Enrica Salvatori",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Pamela L. Caughie",
-        "attributes": {
-          "label": "Pamela L. Caughie",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "George K. Thiruvathukal",
-        "attributes": {
-          "label": "George K. Thiruvathukal",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Françoise Legendre",
-        "attributes": {
-          "label": "Françoise Legendre",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Françoise Legendre",
-        "attributes": {
-          "label": "Françoise Legendre",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Howard Dodson",
-        "attributes": {
-          "label": "Howard Dodson",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anne Bohnenkamp",
-        "attributes": {
-          "label": "Anne Bohnenkamp",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Anne Bohnenkamp",
-        "attributes": {
-          "label": "Anne Bohnenkamp",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Anne Bohnenkamp",
-        "attributes": {
-          "label": "Anne Bohnenkamp",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Silke Henke",
-        "attributes": {
-          "label": "Silke Henke",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Silke Henke",
-        "attributes": {
-          "label": "Silke Henke",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Silke Henke",
-        "attributes": {
-          "label": "Silke Henke",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Fotis Jannidis",
-        "attributes": {
-          "label": "Fotis Jannidis",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Fotis Jannidis",
-        "attributes": {
-          "label": "Fotis Jannidis",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Fotis Jannidis",
-        "attributes": {
-          "label": "Fotis Jannidis",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gabriele Radecke",
-        "attributes": {
-          "label": "Gabriele Radecke",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Gabriele Radecke",
-        "attributes": {
-          "label": "Gabriele Radecke",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Sarah Mombert",
-        "attributes": {
-          "label": "Sarah Mombert",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Sarah Mombert",
-        "attributes": {
-          "label": "Sarah Mombert",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Martin Grötschel",
-        "attributes": {
-          "label": "Martin Grötschel",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Grötschel",
-        "attributes": {
-          "label": "Martin Grötschel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Maurizio Ghelardi",
-        "attributes": {
-          "label": "Maurizio Ghelardi",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Maurizio Ghelardi",
-        "attributes": {
-          "label": "Maurizio Ghelardi",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Miriam Rürup",
-        "attributes": {
-          "label": "Miriam Rürup",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Sean B. Palmer",
-        "attributes": {
-          "label": "Sean B. Palmer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Lina Bolzoni",
-        "attributes": {
-          "label": "Lina Bolzoni",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "José Luis Losada Palenzuela",
-        "attributes": {
-          "label": "José Luis Losada Palenzuela",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Irene Pedretti",
-        "attributes": {
-          "label": "Irene Pedretti",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Irene Pedretti",
-        "attributes": {
-          "label": "Irene Pedretti",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Irene Pedretti",
-        "attributes": {
-          "label": "Irene Pedretti",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Róisín O’Brien",
-        "attributes": {
-          "label": "Róisín O’Brien",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Wolfgang Klein",
-        "attributes": {
-          "label": "Wolfgang Klein",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alexander Geyken",
-        "attributes": {
-          "label": "Alexander Geyken",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Claire Clivaz",
-        "attributes": {
-          "label": "Claire Clivaz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Susan Schreibman",
-        "attributes": {
-          "label": "Susan Schreibman",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Nicola Palazzolo",
-        "attributes": {
-          "label": "Nicola Palazzolo",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Giles Bergel",
-        "attributes": {
-          "label": "Giles Bergel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Scott Vanderbilt",
-        "attributes": {
-          "label": "Scott Vanderbilt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Thomas Kirchner",
-        "attributes": {
-          "label": "Thomas Kirchner",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Thomas Kirchner",
-        "attributes": {
-          "label": "Thomas Kirchner",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Thomas Kirchner",
-        "attributes": {
-          "label": "Thomas Kirchner",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Thomas Kirchner",
-        "attributes": {
-          "label": "Thomas Kirchner",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Alessandro Nova",
-        "attributes": {
-          "label": "Alessandro Nova",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alessandro Nova",
-        "attributes": {
-          "label": "Alessandro Nova",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alessandro Nova",
-        "attributes": {
-          "label": "Alessandro Nova",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Alessandro Nova",
-        "attributes": {
-          "label": "Alessandro Nova",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Claudia Resch",
-        "attributes": {
-          "label": "Claudia Resch",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Barbara Bordalejo",
-        "attributes": {
-          "label": "Barbara Bordalejo",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Barbara Bordalejo",
-        "attributes": {
-          "label": "Barbara Bordalejo",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Federico Aurora",
-        "attributes": {
-          "label": "Federico Aurora",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bernhard Fetz",
-        "attributes": {
-          "label": "Bernhard Fetz",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bernhard Fetz",
-        "attributes": {
-          "label": "Bernhard Fetz",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bernhard Fetz",
-        "attributes": {
-          "label": "Bernhard Fetz",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bernhard Fetz",
-        "attributes": {
-          "label": "Bernhard Fetz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Hans Harald Müller",
-        "attributes": {
-          "label": "Hans Harald Müller",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Hans Harald Müller",
-        "attributes": {
-          "label": "Hans Harald Müller",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paolo Monella",
-        "attributes": {
-          "label": "Paolo Monella",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Paolo Monella",
-        "attributes": {
-          "label": "Paolo Monella",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Jeremy Johnston",
-        "attributes": {
-          "label": "Jeremy Johnston",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Jeremy Johnston",
-        "attributes": {
-          "label": "Jeremy Johnston",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Jeremy Johnston",
-        "attributes": {
-          "label": "Jeremy Johnston",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Jeremy Johnston",
-        "attributes": {
-          "label": "Jeremy Johnston",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Frank Christianson",
-        "attributes": {
-          "label": "Frank Christianson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Frank Christianson",
-        "attributes": {
-          "label": "Frank Christianson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Frank Christianson",
-        "attributes": {
-          "label": "Frank Christianson",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Frank Christianson",
-        "attributes": {
-          "label": "Frank Christianson",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Douglas Seefeldt",
-        "attributes": {
-          "label": "Douglas Seefeldt",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Douglas Seefeldt",
-        "attributes": {
-          "label": "Douglas Seefeldt",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Douglas Seefeldt",
-        "attributes": {
-          "label": "Douglas Seefeldt",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Douglas Seefeldt",
-        "attributes": {
-          "label": "Douglas Seefeldt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ronald Woodley",
-        "attributes": {
-          "label": "Ronald Woodley",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Monica Berti",
-        "attributes": {
-          "label": "Monica Berti",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anke Bosse",
-        "attributes": {
-          "label": "Anke Bosse",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Artur Boerderl",
-        "attributes": {
-          "label": "Artur Boerderl",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Walter Fanta",
-        "attributes": {
-          "label": "Walter Fanta",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bernhard Koller",
-        "attributes": {
-          "label": "Bernhard Koller",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Anne Baillot",
-        "attributes": {
-          "label": "Anne Baillot",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ernesto Priani Saisó",
-        "attributes": {
-          "label": "Ernesto Priani Saisó",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ottmar Ette",
-        "attributes": {
-          "label": "Ottmar Ette",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Francesca Tomasi",
-        "attributes": {
-          "label": "Francesca Tomasi",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Julia A. Schmidt-Funke",
-        "attributes": {
-          "label": "Julia A. Schmidt-Funke",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Julia A. Schmidt-Funke",
-        "attributes": {
-          "label": "Julia A. Schmidt-Funke",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Julia A. Schmidt-Funke",
-        "attributes": {
-          "label": "Julia A. Schmidt-Funke",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Martin Prell",
-        "attributes": {
-          "label": "Martin Prell",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Prell",
-        "attributes": {
-          "label": "Martin Prell",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Prell",
-        "attributes": {
-          "label": "Martin Prell",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Cathy Moran Hajo",
-        "attributes": {
-          "label": "Cathy Moran Hajo",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Dominique Descotes",
-        "attributes": {
-          "label": "Dominique Descotes",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gilles Proust",
-        "attributes": {
-          "label": "Gilles Proust",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Klaus Kastberger",
-        "attributes": {
-          "label": "Klaus Kastberger",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Klaus Kastberger",
-        "attributes": {
-          "label": "Klaus Kastberger",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Andrew Kraebel",
-        "attributes": {
-          "label": "Andrew Kraebel",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Andrew Kraebel",
-        "attributes": {
-          "label": "Andrew Kraebel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bernhard R. Appel",
-        "attributes": {
-          "label": "Bernhard R. Appel",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bernhard R. Appel",
-        "attributes": {
-          "label": "Bernhard R. Appel",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bernhard R. Appel",
-        "attributes": {
-          "label": "Bernhard R. Appel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Paul Eggert",
-        "attributes": {
-          "label": "Paul Eggert",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Marco Presotto",
-        "attributes": {
-          "label": "Marco Presotto",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Werner Stangl",
-        "attributes": {
-          "label": "Werner Stangl",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Veres András",
-        "attributes": {
-          "label": "Veres András",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Veres András",
-        "attributes": {
-          "label": "Veres András",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Veres András",
-        "attributes": {
-          "label": "Veres András",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Fellegi Zsófia",
-        "attributes": {
-          "label": "Fellegi Zsófia",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bengi László",
-        "attributes": {
-          "label": "Bengi László",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Parádi Andrea",
-        "attributes": {
-          "label": "Parádi Andrea",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Parádi Andrea",
-        "attributes": {
-          "label": "Parádi Andrea",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Palkó Gábor",
-        "attributes": {
-          "label": "Palkó Gábor",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tóth Tünde",
-        "attributes": {
-          "label": "Tóth Tünde",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Tünde",
-        "attributes": {
-          "label": "Tóth Tünde",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Tünde",
-        "attributes": {
-          "label": "Tóth Tünde",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Tünde",
-        "attributes": {
-          "label": "Tóth Tünde",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Tünde",
-        "attributes": {
-          "label": "Tóth Tünde",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Földes Zsuzsa",
-        "attributes": {
-          "label": "Földes Zsuzsa",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Devescovi Balázs",
-        "attributes": {
-          "label": "Devescovi Balázs",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Horváth Iván",
-        "attributes": {
-          "label": "Horváth Iván",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Horváth Iván",
-        "attributes": {
-          "label": "Horváth Iván",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Horváth Iván",
-        "attributes": {
-          "label": "Horváth Iván",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Devescovi Balázs, Golden Dániel",
-        "attributes": {
-          "label": "Devescovi Balázs, Golden Dániel",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Aengus Ward",
-        "attributes": {
-          "label": "Aengus Ward",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tóth Csilla",
-        "attributes": {
-          "label": "Tóth Csilla",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Orlovszky Géza",
-        "attributes": {
-          "label": "Orlovszky Géza",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Szegedi Béla",
-        "attributes": {
-          "label": "Szegedi Béla",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bárczi Ildikó",
-        "attributes": {
-          "label": "Bárczi Ildikó",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bartók Zsófia Ágnes",
-        "attributes": {
-          "label": "Bartók Zsófia Ágnes",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Bodrogi Ferenc Máté",
-        "attributes": {
-          "label": "Bodrogi Ferenc Máté",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Bodrogi Ferenc Máté",
-        "attributes": {
-          "label": "Bodrogi Ferenc Máté",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Orbán László",
-        "attributes": {
-          "label": "Orbán László",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Orbán László",
-        "attributes": {
-          "label": "Orbán László",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Orbán László",
-        "attributes": {
-          "label": "Orbán László",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Orbán László",
-        "attributes": {
-          "label": "Orbán László",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Tóth Barna",
-        "attributes": {
-          "label": "Tóth Barna",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Barna",
-        "attributes": {
-          "label": "Tóth Barna",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Barna",
-        "attributes": {
-          "label": "Tóth Barna",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Tóth Barna",
-        "attributes": {
-          "label": "Tóth Barna",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Debreczeni Attila",
-        "attributes": {
-          "label": "Debreczeni Attila",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Debreczeni Attila",
-        "attributes": {
-          "label": "Debreczeni Attila",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Debreczeni Attila",
-        "attributes": {
-          "label": "Debreczeni Attila",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Debreczeni Attila",
-        "attributes": {
-          "label": "Debreczeni Attila",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Debreczeni Attila",
-        "attributes": {
-          "label": "Debreczeni Attila",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Debreczeni Attila",
-        "attributes": {
-          "label": "Debreczeni Attila",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Veisz Bettina",
-        "attributes": {
-          "label": "Veisz Bettina",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Veisz Bettina",
-        "attributes": {
-          "label": "Veisz Bettina",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "M. Nagy Ilona",
-        "attributes": {
-          "label": "M. Nagy Ilona",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Boda István Károly",
-        "attributes": {
-          "label": "Boda István Károly",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Porkoláb Judit",
-        "attributes": {
-          "label": "Porkoláb Judit",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Varga Teréz",
-        "attributes": {
-          "label": "Varga Teréz",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Torsten Schrade",
-        "attributes": {
-          "label": "Torsten Schrade",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Marjam Trautmann",
-        "attributes": {
-          "label": "Marjam Trautmann",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Vadai István",
-        "attributes": {
-          "label": "Vadai István",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "H. Hubert Gabriella",
-        "attributes": {
-          "label": "H. Hubert Gabriella",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Kabdebó Lóránt",
-        "attributes": {
-          "label": "Kabdebó Lóránt",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Kabdebó Lóránt",
-        "attributes": {
-          "label": "Kabdebó Lóránt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Labádi Gergely",
-        "attributes": {
-          "label": "Labádi Gergely",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Rita Marquilhas",
-        "attributes": {
-          "label": "Rita Marquilhas",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Norbert Miller",
-        "attributes": {
-          "label": "Norbert Miller",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Markus Bernauer",
-        "attributes": {
-          "label": "Markus Bernauer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Frederike Neuber",
-        "attributes": {
-          "label": "Frederike Neuber",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Victor Millet",
-        "attributes": {
-          "label": "Victor Millet",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Victor Millet",
-        "attributes": {
-          "label": "Victor Millet",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Eglal Henein",
-        "attributes": {
-          "label": "Eglal Henein",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Martin Anton Müller",
-        "attributes": {
-          "label": "Martin Anton Müller",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Anton Müller",
-        "attributes": {
-          "label": "Martin Anton Müller",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ulrike Czeitschner",
-        "attributes": {
-          "label": "Ulrike Czeitschner",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Karin Schneider",
-        "attributes": {
-          "label": "Karin Schneider",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Roland Innerhofer",
-        "attributes": {
-          "label": "Roland Innerhofer",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Roland Innerhofer",
-        "attributes": {
-          "label": "Roland Innerhofer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Thomas Martin Buck",
-        "attributes": {
-          "label": "Thomas Martin Buck",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Újvári Tüskés Anna",
-        "attributes": {
-          "label": "Újvári Tüskés Anna",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Andrew Webber",
-        "attributes": {
-          "label": "Andrew Webber",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Janina Reibold",
-        "attributes": {
-          "label": "Janina Reibold",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Janina Reibold",
-        "attributes": {
-          "label": "Janina Reibold",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Katrine Froekjaer Baunvig",
-        "attributes": {
-          "label": "Katrine Froekjaer Baunvig",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Brigitte Mazohl",
-        "attributes": {
-          "label": "Brigitte Mazohl",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Brigitte Mazohl",
-        "attributes": {
-          "label": "Brigitte Mazohl",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Christof Aichner",
-        "attributes": {
-          "label": "Christof Aichner",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Christof Aichner",
-        "attributes": {
-          "label": "Christof Aichner",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Peter Andorfer",
-        "attributes": {
-          "label": "Peter Andorfer",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Peter Andorfer",
-        "attributes": {
-          "label": "Peter Andorfer",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Catherine Dobias-Lalou",
-        "attributes": {
-          "label": "Catherine Dobias-Lalou",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Catherine Dobias-Lalou",
-        "attributes": {
-          "label": "Catherine Dobias-Lalou",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Catherine Dobias-Lalou",
-        "attributes": {
-          "label": "Catherine Dobias-Lalou",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Catherine Dobias-Lalou",
-        "attributes": {
-          "label": "Catherine Dobias-Lalou",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Arnold Michalowski",
-        "attributes": {
-          "label": "Arnold Michalowski",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Matthias Reinert",
-        "attributes": {
-          "label": "Matthias Reinert",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Matthias Reinert",
-        "attributes": {
-          "label": "Matthias Reinert",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Evina Steinová",
-        "attributes": {
-          "label": "Evina Steinová",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Evina Steinová",
-        "attributes": {
-          "label": "Evina Steinová",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gabor Mihaly Toth",
-        "attributes": {
-          "label": "Gabor Mihaly Toth",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Gabor Mihaly Toth",
-        "attributes": {
-          "label": "Gabor Mihaly Toth",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Gabor Mihaly Toth",
-        "attributes": {
-          "label": "Gabor Mihaly Toth",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Gabor Mihaly Toth",
-        "attributes": {
-          "label": "Gabor Mihaly Toth",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Thomas Nehrlich",
-        "attributes": {
-          "label": "Thomas Nehrlich",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Marieke Abram",
-        "attributes": {
-          "label": "Marieke Abram",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Marieke Abram",
-        "attributes": {
-          "label": "Marieke Abram",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Susanne Bernhardt",
-        "attributes": {
-          "label": "Susanne Bernhardt",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Susanne Bernhardt",
-        "attributes": {
-          "label": "Susanne Bernhardt",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Gilbert Fournier",
-        "attributes": {
-          "label": "Gilbert Fournier",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Gilbert Fournier",
-        "attributes": {
-          "label": "Gilbert Fournier",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Martin Hinze",
-        "attributes": {
-          "label": "Martin Hinze",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Martin Hinze",
-        "attributes": {
-          "label": "Martin Hinze",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Antje Kellersohn",
-        "attributes": {
-          "label": "Antje Kellersohn",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Antje Kellersohn",
-        "attributes": {
-          "label": "Antje Kellersohn",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Balázs J. Nemes",
-        "attributes": {
-          "label": "Balázs J. Nemes",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Balázs J. Nemes",
-        "attributes": {
-          "label": "Balázs J. Nemes",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Saher Semaan",
-        "attributes": {
-          "label": "Saher Semaan",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Saher Semaan",
-        "attributes": {
-          "label": "Saher Semaan",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Ulrich von Bülow",
-        "attributes": {
-          "label": "Ulrich von Bülow",
-          "type": "Person"
-        }
-      },
-      {
-        "key": "Ulrich von Bülow",
-        "attributes": {
-          "label": "Ulrich von Bülow",
-          "type": "Person"
-        }
-      }
-    ],
-    [
-      {
-        "key": "Corinna Salomon",
-        "attributes": {
-          "label": "Corinna Salomon",
-          "type": "Person"
-        }
-      }
-    ]
+    {
+      "key": "Torsten Schaßan",
+      "attributes": {
+        "label": "Torsten Schaßan",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alexander Huber",
+      "attributes": {
+        "label": "Alexander Huber",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alexander Roberts",
+      "attributes": {
+        "label": "Alexander Roberts",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dafydd Johnston",
+      "attributes": {
+        "label": "Dafydd Johnston",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Franz Fischer",
+      "attributes": {
+        "label": "Franz Fischer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anthony Harvey",
+      "attributes": {
+        "label": "Anthony Harvey",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Antonio Olivieri",
+      "attributes": {
+        "label": "Antonio Olivieri",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Antony McKenna",
+      "attributes": {
+        "label": "Antony McKenna",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Charles Crowther",
+      "attributes": {
+        "label": "Charles Crowther",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alan Bowman",
+      "attributes": {
+        "label": "Alan Bowman",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christof Schöch",
+      "attributes": {
+        "label": "Christof Schöch",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Claire Breay",
+      "attributes": {
+        "label": "Claire Breay",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Leander Seige",
+      "attributes": {
+        "label": "Leander Seige",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Father Justin",
+      "attributes": {
+        "label": "Father Justin",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ekaterina Krushelnitskaya",
+      "attributes": {
+        "label": "Ekaterina Krushelnitskaya",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Colin Jones",
+      "attributes": {
+        "label": "Colin Jones",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dániel Kiss",
+      "attributes": {
+        "label": "Dániel Kiss",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David J. Birnbaum",
+      "attributes": {
+        "label": "David J. Birnbaum",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David Rollason",
+      "attributes": {
+        "label": "David Rollason",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dirk Van Hulle",
+      "attributes": {
+        "label": "Dirk Van Hulle",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Donald J. Mastronarde",
+      "attributes": {
+        "label": "Donald J. Mastronarde",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Douglas B. Killings",
+      "attributes": {
+        "label": "Douglas B. Killings",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Penny Simons",
+      "attributes": {
+        "label": "Penny Simons",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Beth Hartland",
+      "attributes": {
+        "label": "Beth Hartland",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Harold Short",
+      "attributes": {
+        "label": "Harold Short",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Arianna Ciula",
+      "attributes": {
+        "label": "Arianna Ciula",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David Carpenter",
+      "attributes": {
+        "label": "David Carpenter",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David Crook",
+      "attributes": {
+        "label": "David Crook",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Sean Cunningham",
+      "attributes": {
+        "label": "Sean Cunningham",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paul Dryburgh",
+      "attributes": {
+        "label": "Paul Dryburgh",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Louise Wilkinson",
+      "attributes": {
+        "label": "Louise Wilkinson",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Fritz Nagel",
+      "attributes": {
+        "label": "Fritz Nagel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Giuseppe Bonghi",
+      "attributes": {
+        "label": "Giuseppe Bonghi",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Heidi Eisenhut",
+      "attributes": {
+        "label": "Heidi Eisenhut",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Irene Polinskaya",
+      "attributes": {
+        "label": "Irene Polinskaya",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "John O'Neill",
+      "attributes": {
+        "label": "John O'Neill",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Julia Merritt",
+      "attributes": {
+        "label": "Julia Merritt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Matthew Symonds",
+      "attributes": {
+        "label": "Matthew Symonds",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paddy Bullard",
+      "attributes": {
+        "label": "Paddy Bullard",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Pádraic Moran",
+      "attributes": {
+        "label": "Pádraic Moran",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paolo D'Iorio",
+      "attributes": {
+        "label": "Paolo D'Iorio",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paul Russell",
+      "attributes": {
+        "label": "Paul Russell",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paulina Kewes",
+      "attributes": {
+        "label": "Paulina Kewes",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "William Barker",
+      "attributes": {
+        "label": "William Barker",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Eduardo Urbina",
+      "attributes": {
+        "label": "Eduardo Urbina",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Francesco Stella",
+      "attributes": {
+        "label": "Francesco Stella",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gary A. Rendsburg",
+      "attributes": {
+        "label": "Gary A. Rendsburg",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "James Laidlaw",
+      "attributes": {
+        "label": "James Laidlaw",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "not provided",
+      "attributes": {
+        "label": "not provided",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "James A. Secord",
+      "attributes": {
+        "label": "James A. Secord",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Edward Vanhoutte",
+      "attributes": {
+        "label": "Edward Vanhoutte",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alastair Bellany",
+      "attributes": {
+        "label": "Alastair Bellany",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Andrew McRae",
+      "attributes": {
+        "label": "Andrew McRae",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Barbara Mowat",
+      "attributes": {
+        "label": "Barbara Mowat",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paul Werstine",
+      "attributes": {
+        "label": "Paul Werstine",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Stuart Curran",
+      "attributes": {
+        "label": "Stuart Curran",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Martin Morard",
+      "attributes": {
+        "label": "Martin Morard",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Marjorie Burghart",
+      "attributes": {
+        "label": "Marjorie Burghart",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Thomas Burch",
+      "attributes": {
+        "label": "Thomas Burch",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jan Halvor Undlien",
+      "attributes": {
+        "label": "Jan Halvor Undlien",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Frode Helland",
+      "attributes": {
+        "label": "Frode Helland",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anh Q. Bui",
+      "attributes": {
+        "label": "Anh Q. Bui",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Victor Fischer",
+      "attributes": {
+        "label": "Victor Fischer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "et al.",
+      "attributes": {
+        "label": "et al.",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Roberto Gusmani",
+      "attributes": {
+        "label": "Roberto Gusmani",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christiane Marchello-Nizia",
+      "attributes": {
+        "label": "Christiane Marchello-Nizia",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alexei Lavrentiev",
+      "attributes": {
+        "label": "Alexei Lavrentiev",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David Burnley",
+      "attributes": {
+        "label": "David Burnley",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alison Wiggins",
+      "attributes": {
+        "label": "Alison Wiggins",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Lauren Kassell",
+      "attributes": {
+        "label": "Lauren Kassell",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "James J. O'Donnell",
+      "attributes": {
+        "label": "James J. O'Donnell",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ioanna Papadopoulou",
+      "attributes": {
+        "label": "Ioanna Papadopoulou",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Various",
+      "attributes": {
+        "label": "Various",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Clive Emsley",
+      "attributes": {
+        "label": "Clive Emsley",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tim Hitchcock",
+      "attributes": {
+        "label": "Tim Hitchcock",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Robert Shoemaker",
+      "attributes": {
+        "label": "Robert Shoemaker",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Richard Cave",
+      "attributes": {
+        "label": "Richard Cave",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Mehmet Kalpakli",
+      "attributes": {
+        "label": "Mehmet Kalpakli",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Walter G. Andrews",
+      "attributes": {
+        "label": "Walter G. Andrews",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David O’Shaughnessy",
+      "attributes": {
+        "label": "David O’Shaughnessy",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Mark Philp",
+      "attributes": {
+        "label": "Mark Philp",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Victoria Myers",
+      "attributes": {
+        "label": "Victoria Myers",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gerlinde Wolsleben",
+      "attributes": {
+        "label": "Gerlinde Wolsleben",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Hayim Lapin",
+      "attributes": {
+        "label": "Hayim Lapin",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ian W. Scott",
+      "attributes": {
+        "label": "Ian W. Scott",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "James S. Snyder",
+      "attributes": {
+        "label": "James S. Snyder",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jan Burgers",
+      "attributes": {
+        "label": "Jan Burgers",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "José Manuel Lucía Megías",
+      "attributes": {
+        "label": "José Manuel Lucía Megías",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Katherine Walter",
+      "attributes": {
+        "label": "Katherine Walter",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Kevin Kiernan",
+      "attributes": {
+        "label": "Kevin Kiernan",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Kristopher Grint",
+      "attributes": {
+        "label": "Kristopher Grint",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Lou Burnard",
+      "attributes": {
+        "label": "Lou Burnard",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Luc Herren",
+      "attributes": {
+        "label": "Luc Herren",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "María de las Nieves Muñiz",
+      "attributes": {
+        "label": "María de las Nieves Muñiz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Mary Costigan",
+      "attributes": {
+        "label": "Mary Costigan",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Matthew Bailey",
+      "attributes": {
+        "label": "Matthew Bailey",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michael Arnott",
+      "attributes": {
+        "label": "Michael Arnott",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michael Hendry",
+      "attributes": {
+        "label": "Michael Hendry",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michele Ansani",
+      "attributes": {
+        "label": "Michele Ansani",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Murray McGillivray",
+      "attributes": {
+        "label": "Murray McGillivray",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Nino Zubović",
+      "attributes": {
+        "label": "Nino Zubović",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paul Spence",
+      "attributes": {
+        "label": "Paul Spence",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Peter Robinson",
+      "attributes": {
+        "label": "Peter Robinson",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Joachim Veit",
+      "attributes": {
+        "label": "Joachim Veit",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Peter Stadler",
+      "attributes": {
+        "label": "Peter Stadler",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Adrian S. Wisnicki",
+      "attributes": {
+        "label": "Adrian S. Wisnicki",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bruno Bureau",
+      "attributes": {
+        "label": "Bruno Bureau",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Charlotte Roueché",
+      "attributes": {
+        "label": "Charlotte Roueché",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christoph Flüeler",
+      "attributes": {
+        "label": "Christoph Flüeler",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dana Sutton",
+      "attributes": {
+        "label": "Dana Sutton",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David Williams",
+      "attributes": {
+        "label": "David Williams",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dorothy Severin",
+      "attributes": {
+        "label": "Dorothy Severin",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Günter Stock",
+      "attributes": {
+        "label": "Günter Stock",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gerhard Schmitz",
+      "attributes": {
+        "label": "Gerhard Schmitz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Veronika Lukas",
+      "attributes": {
+        "label": "Veronika Lukas",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Grant Frame",
+      "attributes": {
+        "label": "Grant Frame",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Joel W. Fredell",
+      "attributes": {
+        "label": "Joel W. Fredell",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "John Kilcullen",
+      "attributes": {
+        "label": "John Kilcullen",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "John Palmer",
+      "attributes": {
+        "label": "John Palmer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "John Rink",
+      "attributes": {
+        "label": "John Rink",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Kathryn Sutherland",
+      "attributes": {
+        "label": "Kathryn Sutherland",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Kenneth M. Price",
+      "attributes": {
+        "label": "Kenneth M. Price",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Marilyn Deegan",
+      "attributes": {
+        "label": "Marilyn Deegan",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Mark Greengrass",
+      "attributes": {
+        "label": "Mark Greengrass",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Massimo Lollini",
+      "attributes": {
+        "label": "Massimo Lollini",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Massimo Riva",
+      "attributes": {
+        "label": "Massimo Riva",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michael Satlow",
+      "attributes": {
+        "label": "Michael Satlow",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Elli Mylonas",
+      "attributes": {
+        "label": "Elli Mylonas",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michael Stolz",
+      "attributes": {
+        "label": "Michael Stolz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michelangelo Picone",
+      "attributes": {
+        "label": "Michelangelo Picone",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Neil Fraistat",
+      "attributes": {
+        "label": "Neil Fraistat",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Peter Ainsworth",
+      "attributes": {
+        "label": "Peter Ainsworth",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Peter Wynn Thomas",
+      "attributes": {
+        "label": "Peter Wynn Thomas",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Robert Iliffe",
+      "attributes": {
+        "label": "Robert Iliffe",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Roberto Rosselli Del Turco",
+      "attributes": {
+        "label": "Roberto Rosselli Del Turco",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Simone Albonico",
+      "attributes": {
+        "label": "Simone Albonico",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christopher Lawrence",
+      "attributes": {
+        "label": "Christopher Lawrence",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Raul Mordenti",
+      "attributes": {
+        "label": "Raul Mordenti",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Raymond Siemens",
+      "attributes": {
+        "label": "Raymond Siemens",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Sandrine Breuil",
+      "attributes": {
+        "label": "Sandrine Breuil",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Scott Garton",
+      "attributes": {
+        "label": "Scott Garton",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tim Causer",
+      "attributes": {
+        "label": "Tim Causer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Xavier Hélary",
+      "attributes": {
+        "label": "Xavier Hélary",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bernard J. Muir",
+      "attributes": {
+        "label": "Bernard J. Muir",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alice Boone",
+      "attributes": {
+        "label": "Alice Boone",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ben Vershbow",
+      "attributes": {
+        "label": "Ben Vershbow",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Eddie A. Tejeda",
+      "attributes": {
+        "label": "Eddie A. Tejeda",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christopher Mulvey",
+      "attributes": {
+        "label": "Christopher Mulvey",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alessandra Avanzini",
+      "attributes": {
+        "label": "Alessandra Avanzini",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gillian Evison",
+      "attributes": {
+        "label": "Gillian Evison",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Martha Nell Smith",
+      "attributes": {
+        "label": "Martha Nell Smith",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Lara Vetter",
+      "attributes": {
+        "label": "Lara Vetter",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paul Dijstelberge",
+      "attributes": {
+        "label": "Paul Dijstelberge",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anthony Grafton",
+      "attributes": {
+        "label": "Anthony Grafton",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Lisa Jardine",
+      "attributes": {
+        "label": "Lisa Jardine",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bart Jaski",
+      "attributes": {
+        "label": "Bart Jaski",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jürgen Pieters",
+      "attributes": {
+        "label": "Jürgen Pieters",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "William Sherman",
+      "attributes": {
+        "label": "William Sherman",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Els Stronks",
+      "attributes": {
+        "label": "Els Stronks",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Arnoud Visser",
+      "attributes": {
+        "label": "Arnoud Visser",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Isabella Truci",
+      "attributes": {
+        "label": "Isabella Truci",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paolo Galluzzi",
+      "attributes": {
+        "label": "Paolo Galluzzi",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jürgen Renn",
+      "attributes": {
+        "label": "Jürgen Renn",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Malte Rehbein",
+      "attributes": {
+        "label": "Malte Rehbein",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "John Bryant",
+      "attributes": {
+        "label": "John Bryant",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Cliff Eisen",
+      "attributes": {
+        "label": "Cliff Eisen",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Selim S. Kuru",
+      "attributes": {
+        "label": "Selim S. Kuru",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Barbara Timm Gates",
+      "attributes": {
+        "label": "Barbara Timm Gates",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Richard P. Rogers",
+      "attributes": {
+        "label": "Richard P. Rogers",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Liz Stanley",
+      "attributes": {
+        "label": "Liz Stanley",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "R. N. Tripathy",
+      "attributes": {
+        "label": "R. N. Tripathy",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dwight F. Reynolds",
+      "attributes": {
+        "label": "Dwight F. Reynolds",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Karsten Kynde",
+      "attributes": {
+        "label": "Karsten Kynde",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "C. James Taylor",
+      "attributes": {
+        "label": "C. James Taylor",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "David Walker",
+      "attributes": {
+        "label": "David Walker",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Pascal Mercier",
+      "attributes": {
+        "label": "Pascal Mercier",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Michael Pidd",
+      "attributes": {
+        "label": "Michael Pidd",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Robert Whalen",
+      "attributes": {
+        "label": "Robert Whalen",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christipher Hodgkins",
+      "attributes": {
+        "label": "Christipher Hodgkins",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "John P. Kaminski",
+      "attributes": {
+        "label": "John P. Kaminski",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gaspare J. Saladino",
+      "attributes": {
+        "label": "Gaspare J. Saladino",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Richard Leffler",
+      "attributes": {
+        "label": "Richard Leffler",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Charles H. Schoenleber",
+      "attributes": {
+        "label": "Charles H. Schoenleber",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Margaret A. Hogan",
+      "attributes": {
+        "label": "Margaret A. Hogan",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Holly C. Schulman",
+      "attributes": {
+        "label": "Holly C. Schulman",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Volker Schier",
+      "attributes": {
+        "label": "Volker Schier",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Corine Schleif",
+      "attributes": {
+        "label": "Corine Schleif",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Antony H. Harrison",
+      "attributes": {
+        "label": "Antony H. Harrison",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Cecil Y. Lang",
+      "attributes": {
+        "label": "Cecil Y. Lang",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Takako Kato",
+      "attributes": {
+        "label": "Takako Kato",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Harold C. Syrett",
+      "attributes": {
+        "label": "Harold C. Syrett",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Constance Schulz",
+      "attributes": {
+        "label": "Constance Schulz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Edward G. Lengel",
+      "attributes": {
+        "label": "Edward G. Lengel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "J. C. A. Stagg",
+      "attributes": {
+        "label": "J. C. A. Stagg",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "James P. McClure",
+      "attributes": {
+        "label": "James P. McClure",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "J. Jefferson Looney",
+      "attributes": {
+        "label": "J. Jefferson Looney",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "N. G. Round",
+      "attributes": {
+        "label": "N. G. Round",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Rhian Davies",
+      "attributes": {
+        "label": "Rhian Davies",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jamie McLaughlin",
+      "attributes": {
+        "label": "Jamie McLaughlin",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Robert Helmerichs",
+      "attributes": {
+        "label": "Robert Helmerichs",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jamie Norrish",
+      "attributes": {
+        "label": "Jamie Norrish",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gerrit H.V. Bunt",
+      "attributes": {
+        "label": "Gerrit H.V. Bunt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Maria de las Nieves Muñiz Muñiz",
+      "attributes": {
+        "label": "Maria de las Nieves Muñiz Muñiz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Murtha Baca",
+      "attributes": {
+        "label": "Murtha Baca",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Nuria Rodríguez Ortega",
+      "attributes": {
+        "label": "Nuria Rodríguez Ortega",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anita Fajt",
+      "attributes": {
+        "label": "Anita Fajt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Charalambos Dendrinos",
+      "attributes": {
+        "label": "Charalambos Dendrinos",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Pascale Sutter",
+      "attributes": {
+        "label": "Pascale Sutter",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anna Skolimowska",
+      "attributes": {
+        "label": "Anna Skolimowska",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Kevin Hawkins",
+      "attributes": {
+        "label": "Kevin Hawkins",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Andrea Iantorno",
+      "attributes": {
+        "label": "Andrea Iantorno",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Janet L. Nelson",
+      "attributes": {
+        "label": "Janet L. Nelson",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alex Burghart",
+      "attributes": {
+        "label": "Alex Burghart",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tara Andrews",
+      "attributes": {
+        "label": "Tara Andrews",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Robert Carvais",
+      "attributes": {
+        "label": "Robert Carvais",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Emmanuel Château-Dutier",
+      "attributes": {
+        "label": "Emmanuel Château-Dutier",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Arndt Schreiber",
+      "attributes": {
+        "label": "Arndt Schreiber",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Antoine Odier",
+      "attributes": {
+        "label": "Antoine Odier",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christian Schwaderer",
+      "attributes": {
+        "label": "Christian Schwaderer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Yolanda Plumley",
+      "attributes": {
+        "label": "Yolanda Plumley",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Giuliano Di Bacco",
+      "attributes": {
+        "label": "Giuliano Di Bacco",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tamsyn Rose-Steel",
+      "attributes": {
+        "label": "Tamsyn Rose-Steel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gary Stringer",
+      "attributes": {
+        "label": "Gary Stringer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dalia Mendelsson",
+      "attributes": {
+        "label": "Dalia Mendelsson",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Enrica Salvatori",
+      "attributes": {
+        "label": "Enrica Salvatori",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Pamela L. Caughie",
+      "attributes": {
+        "label": "Pamela L. Caughie",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "George K. Thiruvathukal",
+      "attributes": {
+        "label": "George K. Thiruvathukal",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Françoise Legendre",
+      "attributes": {
+        "label": "Françoise Legendre",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Howard Dodson",
+      "attributes": {
+        "label": "Howard Dodson",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anne Bohnenkamp",
+      "attributes": {
+        "label": "Anne Bohnenkamp",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Silke Henke",
+      "attributes": {
+        "label": "Silke Henke",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Fotis Jannidis",
+      "attributes": {
+        "label": "Fotis Jannidis",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gabriele Radecke",
+      "attributes": {
+        "label": "Gabriele Radecke",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Sarah Mombert",
+      "attributes": {
+        "label": "Sarah Mombert",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Martin Grötschel",
+      "attributes": {
+        "label": "Martin Grötschel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Maurizio Ghelardi",
+      "attributes": {
+        "label": "Maurizio Ghelardi",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Miriam Rürup",
+      "attributes": {
+        "label": "Miriam Rürup",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Sean B. Palmer",
+      "attributes": {
+        "label": "Sean B. Palmer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Lina Bolzoni",
+      "attributes": {
+        "label": "Lina Bolzoni",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "José Luis Losada Palenzuela",
+      "attributes": {
+        "label": "José Luis Losada Palenzuela",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Irene Pedretti",
+      "attributes": {
+        "label": "Irene Pedretti",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Róisín O’Brien",
+      "attributes": {
+        "label": "Róisín O’Brien",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Wolfgang Klein",
+      "attributes": {
+        "label": "Wolfgang Klein",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alexander Geyken",
+      "attributes": {
+        "label": "Alexander Geyken",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Claire Clivaz",
+      "attributes": {
+        "label": "Claire Clivaz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Susan Schreibman",
+      "attributes": {
+        "label": "Susan Schreibman",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Nicola Palazzolo",
+      "attributes": {
+        "label": "Nicola Palazzolo",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Giles Bergel",
+      "attributes": {
+        "label": "Giles Bergel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Scott Vanderbilt",
+      "attributes": {
+        "label": "Scott Vanderbilt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Thomas Kirchner",
+      "attributes": {
+        "label": "Thomas Kirchner",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Alessandro Nova",
+      "attributes": {
+        "label": "Alessandro Nova",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Claudia Resch",
+      "attributes": {
+        "label": "Claudia Resch",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Barbara Bordalejo",
+      "attributes": {
+        "label": "Barbara Bordalejo",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Federico Aurora",
+      "attributes": {
+        "label": "Federico Aurora",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bernhard Fetz",
+      "attributes": {
+        "label": "Bernhard Fetz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Hans Harald Müller",
+      "attributes": {
+        "label": "Hans Harald Müller",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paolo Monella",
+      "attributes": {
+        "label": "Paolo Monella",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Jeremy Johnston",
+      "attributes": {
+        "label": "Jeremy Johnston",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Frank Christianson",
+      "attributes": {
+        "label": "Frank Christianson",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Douglas Seefeldt",
+      "attributes": {
+        "label": "Douglas Seefeldt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ronald Woodley",
+      "attributes": {
+        "label": "Ronald Woodley",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Monica Berti",
+      "attributes": {
+        "label": "Monica Berti",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anke Bosse",
+      "attributes": {
+        "label": "Anke Bosse",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Artur Boerderl",
+      "attributes": {
+        "label": "Artur Boerderl",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Walter Fanta",
+      "attributes": {
+        "label": "Walter Fanta",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bernhard Koller",
+      "attributes": {
+        "label": "Bernhard Koller",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Anne Baillot",
+      "attributes": {
+        "label": "Anne Baillot",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ernesto Priani Saisó",
+      "attributes": {
+        "label": "Ernesto Priani Saisó",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ottmar Ette",
+      "attributes": {
+        "label": "Ottmar Ette",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Francesca Tomasi",
+      "attributes": {
+        "label": "Francesca Tomasi",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Julia A. Schmidt-Funke",
+      "attributes": {
+        "label": "Julia A. Schmidt-Funke",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Martin Prell",
+      "attributes": {
+        "label": "Martin Prell",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Cathy Moran Hajo",
+      "attributes": {
+        "label": "Cathy Moran Hajo",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Dominique Descotes",
+      "attributes": {
+        "label": "Dominique Descotes",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gilles Proust",
+      "attributes": {
+        "label": "Gilles Proust",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Klaus Kastberger",
+      "attributes": {
+        "label": "Klaus Kastberger",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Andrew Kraebel",
+      "attributes": {
+        "label": "Andrew Kraebel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bernhard R. Appel",
+      "attributes": {
+        "label": "Bernhard R. Appel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Paul Eggert",
+      "attributes": {
+        "label": "Paul Eggert",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Marco Presotto",
+      "attributes": {
+        "label": "Marco Presotto",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Werner Stangl",
+      "attributes": {
+        "label": "Werner Stangl",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Veres András",
+      "attributes": {
+        "label": "Veres András",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Fellegi Zsófia",
+      "attributes": {
+        "label": "Fellegi Zsófia",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bengi László",
+      "attributes": {
+        "label": "Bengi László",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Parádi Andrea",
+      "attributes": {
+        "label": "Parádi Andrea",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Palkó Gábor",
+      "attributes": {
+        "label": "Palkó Gábor",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tóth Tünde",
+      "attributes": {
+        "label": "Tóth Tünde",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Földes Zsuzsa",
+      "attributes": {
+        "label": "Földes Zsuzsa",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Devescovi Balázs",
+      "attributes": {
+        "label": "Devescovi Balázs",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Horváth Iván",
+      "attributes": {
+        "label": "Horváth Iván",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Devescovi Balázs, Golden Dániel",
+      "attributes": {
+        "label": "Devescovi Balázs, Golden Dániel",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Aengus Ward",
+      "attributes": {
+        "label": "Aengus Ward",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tóth Csilla",
+      "attributes": {
+        "label": "Tóth Csilla",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Orlovszky Géza",
+      "attributes": {
+        "label": "Orlovszky Géza",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Szegedi Béla",
+      "attributes": {
+        "label": "Szegedi Béla",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bárczi Ildikó",
+      "attributes": {
+        "label": "Bárczi Ildikó",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bartók Zsófia Ágnes",
+      "attributes": {
+        "label": "Bartók Zsófia Ágnes",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Bodrogi Ferenc Máté",
+      "attributes": {
+        "label": "Bodrogi Ferenc Máté",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Orbán László",
+      "attributes": {
+        "label": "Orbán László",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Tóth Barna",
+      "attributes": {
+        "label": "Tóth Barna",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Debreczeni Attila",
+      "attributes": {
+        "label": "Debreczeni Attila",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Veisz Bettina",
+      "attributes": {
+        "label": "Veisz Bettina",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "M. Nagy Ilona",
+      "attributes": {
+        "label": "M. Nagy Ilona",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Boda István Károly",
+      "attributes": {
+        "label": "Boda István Károly",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Porkoláb Judit",
+      "attributes": {
+        "label": "Porkoláb Judit",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Varga Teréz",
+      "attributes": {
+        "label": "Varga Teréz",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Torsten Schrade",
+      "attributes": {
+        "label": "Torsten Schrade",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Marjam Trautmann",
+      "attributes": {
+        "label": "Marjam Trautmann",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Vadai István",
+      "attributes": {
+        "label": "Vadai István",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "H. Hubert Gabriella",
+      "attributes": {
+        "label": "H. Hubert Gabriella",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Kabdebó Lóránt",
+      "attributes": {
+        "label": "Kabdebó Lóránt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Labádi Gergely",
+      "attributes": {
+        "label": "Labádi Gergely",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Rita Marquilhas",
+      "attributes": {
+        "label": "Rita Marquilhas",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Norbert Miller",
+      "attributes": {
+        "label": "Norbert Miller",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Markus Bernauer",
+      "attributes": {
+        "label": "Markus Bernauer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Frederike Neuber",
+      "attributes": {
+        "label": "Frederike Neuber",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Victor Millet",
+      "attributes": {
+        "label": "Victor Millet",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Eglal Henein",
+      "attributes": {
+        "label": "Eglal Henein",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Martin Anton Müller",
+      "attributes": {
+        "label": "Martin Anton Müller",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ulrike Czeitschner",
+      "attributes": {
+        "label": "Ulrike Czeitschner",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Karin Schneider",
+      "attributes": {
+        "label": "Karin Schneider",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Roland Innerhofer",
+      "attributes": {
+        "label": "Roland Innerhofer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Thomas Martin Buck",
+      "attributes": {
+        "label": "Thomas Martin Buck",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Újvári Tüskés Anna",
+      "attributes": {
+        "label": "Újvári Tüskés Anna",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Andrew Webber",
+      "attributes": {
+        "label": "Andrew Webber",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Janina Reibold",
+      "attributes": {
+        "label": "Janina Reibold",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Katrine Froekjaer Baunvig",
+      "attributes": {
+        "label": "Katrine Froekjaer Baunvig",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Brigitte Mazohl",
+      "attributes": {
+        "label": "Brigitte Mazohl",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Christof Aichner",
+      "attributes": {
+        "label": "Christof Aichner",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Peter Andorfer",
+      "attributes": {
+        "label": "Peter Andorfer",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Catherine Dobias-Lalou",
+      "attributes": {
+        "label": "Catherine Dobias-Lalou",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Arnold Michalowski",
+      "attributes": {
+        "label": "Arnold Michalowski",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Matthias Reinert",
+      "attributes": {
+        "label": "Matthias Reinert",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Evina Steinová",
+      "attributes": {
+        "label": "Evina Steinová",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gabor Mihaly Toth",
+      "attributes": {
+        "label": "Gabor Mihaly Toth",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Thomas Nehrlich",
+      "attributes": {
+        "label": "Thomas Nehrlich",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Marieke Abram",
+      "attributes": {
+        "label": "Marieke Abram",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Susanne Bernhardt",
+      "attributes": {
+        "label": "Susanne Bernhardt",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Gilbert Fournier",
+      "attributes": {
+        "label": "Gilbert Fournier",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Martin Hinze",
+      "attributes": {
+        "label": "Martin Hinze",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Antje Kellersohn",
+      "attributes": {
+        "label": "Antje Kellersohn",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Balázs J. Nemes",
+      "attributes": {
+        "label": "Balázs J. Nemes",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Saher Semaan",
+      "attributes": {
+        "label": "Saher Semaan",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Ulrich von Bülow",
+      "attributes": {
+        "label": "Ulrich von Bülow",
+        "type": "Person"
+      }
+    },
+    {
+      "key": "Corinna Salomon",
+      "attributes": {
+        "label": "Corinna Salomon",
+        "type": "Person"
+      }
+    }
   ],
   "edges": [
     {

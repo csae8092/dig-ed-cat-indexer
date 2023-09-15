@@ -1,6 +1,8 @@
 [
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "8th",
         "edition-name": "Digitale Edition der Handschrift Cod. Guelf. 64 Weiss.",
         "url": "http://diglib.hab.de/edoc/ed000006/startx.htm",
@@ -90,7 +92,9 @@
         "id": "1"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "18th",
         "edition-name": "The Thomas Gray Archive",
         "url": "http://www.thomasgray.org/",
@@ -198,7 +202,9 @@
         "id": "2"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "14th",
         "edition-name": "A critical edition of the poetry of Dafydd ap Gwilym",
         "url": "http://www.dafyddapgwilym.net/",
@@ -295,7 +301,9 @@
         "id": "3"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "5th",
         "edition-name": "Saint Patrick's Confessio",
         "url": "http://www.confessio.ie/#",
@@ -389,7 +397,10 @@
         "id": "4"
     },
     {
-        "historical-period": "Middle Ages; Early Modern",
+        "historical-period": [
+            "Middle Ages",
+            "Early Modern"
+        ],
         "time-century": "14th-18th",
         "edition-name": "Liber Matriculae - Il libro della matricola dei notai di Vercelli",
         "url": "http://scrineum.unipv.it/LM/home.html",
@@ -478,7 +489,9 @@
         "id": "5"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1662-1686",
         "edition-name": "Correspondance de Pierre Bayle",
         "url": "http://bayle-correspondance.univ-st-etienne.fr/?lang=fr",
@@ -583,7 +596,9 @@
         "id": "6"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st-2nd",
         "edition-name": "Vindolanda Tablets Online",
         "url": "http://vindolanda.csad.ox.ac.uk/index.shtml",
@@ -680,7 +695,9 @@
         "id": "7"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st-2nd",
         "edition-name": "Vindolanda Tablets Online II",
         "url": "http://vto2.classics.ox.ac.uk/",
@@ -775,7 +792,9 @@
         "id": "8"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1776",
         "edition-name": "Bérardier de Bataut, Essai sur le récit, Entretiens sur la manière de raconter",
         "url": "http://www.berardier.org/",
@@ -865,7 +884,9 @@
         "id": "9"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "Mid 4th",
         "edition-name": "Codex Sinaiticus",
         "url": "http://codexsinaiticus.org/en/",
@@ -1011,7 +1032,9 @@
         "id": "10"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1740s-1770s",
         "edition-name": "The Saint-Aubins \"Book of Arses\": The Livre de Caricatures tant bonnes que mauvaises",
         "url": "http://www.waddesdon.org.uk/collection/special-projects/st.-aubin",
@@ -1100,7 +1123,9 @@
         "id": "11"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st BC",
         "edition-name": "Catullus Online",
         "url": "http://www.catullusonline.org/CatullusOnline/index.php",
@@ -1193,7 +1218,9 @@
         "id": "12"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "10th-11th",
         "edition-name": "Digital edition of the Old Church Slavonic Codex Suprasliensis",
         "url": "http://suprasliensis.obdurodon.org/",
@@ -1312,7 +1339,9 @@
         "id": "13"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1195",
         "edition-name": "Becerro Galicano of San Millán de la Cogolla",
         "url": "http://www.ehu.es/galicano/?l=en",
@@ -1389,7 +1418,9 @@
         "id": "14"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "9th",
         "edition-name": "The Durham Liber Vitae Project",
         "url": "http://www.dlv.org.uk/index.html",
@@ -1492,7 +1523,9 @@
         "id": "15"
     },
     {
-        "historical-period": "Contemporary",
+        "historical-period": [
+            "Contemporary"
+        ],
         "time-century": "1920s-1960s",
         "edition-name": "Samuel Beckett Digital Manuscript Project",
         "url": "http://www.beckettarchive.org/login.html",
@@ -1624,7 +1657,10 @@
         "id": "16"
     },
     {
-        "historical-period": "Antiquity; Middle Ages",
+        "historical-period": [
+            "Antiquity",
+            "Middle Ages"
+        ],
         "time-century": "4th-15th",
         "edition-name": "Euripides Scholia",
         "url": "http://euripidesscholia.org",
@@ -1715,7 +1751,9 @@
         "id": "17"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1225",
         "edition-name": "Heimskringla",
         "url": "http://omacl.org/Heimskringla/",
@@ -1805,7 +1843,9 @@
         "id": "18"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "12th",
         "edition-name": "Partonopeus de Blois",
         "url": "https://hridigital.shef.ac.uk/partonopeus/",
@@ -1905,7 +1945,9 @@
         "id": "19"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1216-1272",
         "edition-name": "Henry III Fine Rolls Project",
         "url": "http://www.finerollshenry3.org.uk/",
@@ -2016,7 +2058,9 @@
         "id": "20"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "18th",
         "edition-name": "Die Briefwechsel der Mathematiker Bernoulli",
         "url": "http://www.ub.unibas.ch/bernoulli/index.php/Hauptseite",
@@ -2109,7 +2153,9 @@
         "id": "21"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1749-1750",
         "edition-name": "La Famiglia dell'Antiquario",
         "url": "http://www.intratext.com/X/ITA0763.HTM",
@@ -2198,7 +2244,9 @@
         "id": "22"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "980-1060",
         "edition-name": "Die Glossen Ekkeharts IV. im Codex Sangallensis 621",
         "url": "http://orosius.monumenta.ch/",
@@ -2288,7 +2336,9 @@
         "id": "23"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "6th BC-4th AD",
         "edition-name": "Inscriptions of the Northern Black Sea (IOSPE)",
         "url": "http://iospe.kcl.ac.uk/corpus/index.html",
@@ -2421,7 +2471,9 @@
         "id": "24"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1615",
         "edition-name": "La Entretenida Digital Edition",
         "url": "http://entretenida.outofthewings.org/index.html",
@@ -2512,7 +2564,9 @@
         "id": "25"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1720",
         "edition-name": "A Survey of the Cities of London and Westminster by John Strype",
         "url": "http://www.hrionline.ac.uk/strype/",
@@ -2617,7 +2671,9 @@
         "id": "26"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1559-1588",
         "edition-name": "Letters of William Herle Project",
         "url": "http://www.livesandletters.ac.uk/herle/index.html",
@@ -2711,7 +2767,9 @@
         "id": "27"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1585-1597",
         "edition-name": "The Diplomatic Correspondence of Thomas Bodley",
         "url": "http://www.livesandletters.ac.uk/bodley/bodley.html",
@@ -2822,7 +2880,9 @@
         "id": "28"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1661-1691",
         "edition-name": "The Hooke Folio Online",
         "url": "http://www.livesandletters.ac.uk/cell/Hooke/Hooke.html",
@@ -2913,7 +2973,9 @@
         "id": "29"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1647-1691",
         "edition-name": "The Workdiaries of Robert Boyle",
         "url": "http://www.livesandletters.ac.uk/wd/index.html",
@@ -3050,7 +3112,9 @@
         "id": "30"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1700s-1730s",
         "edition-name": "Jonathan Swift Archive",
         "url": "http://jonathanswiftarchive.org.uk/index.html",
@@ -3171,7 +3235,9 @@
         "id": "31"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "850-851",
         "edition-name": "The St Gall Priscian Glosses",
         "url": "http://www.stgallpriscian.ie",
@@ -3261,7 +3327,10 @@
         "id": "32"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "19th-20th",
         "edition-name": "Nietzsche Source",
         "url": "http://www.nietzschesource.org/",
@@ -3355,7 +3424,9 @@
         "id": "33"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "9th",
         "edition-name": "Early Irish Glossaries Database",
         "url": "http://www.asnc.cam.ac.uk/irishglossaries/",
@@ -3451,7 +3522,9 @@
         "id": "34"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1577; 1587",
         "edition-name": "The Holinshed Project",
         "url": "http://www.cems.ox.ac.uk/holinshed/index.shtml",
@@ -3541,7 +3614,9 @@
         "id": "35"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16th",
         "edition-name": "Alciato's Book of Emblems",
         "url": "http://www.mun.ca/alciato/",
@@ -3630,7 +3705,9 @@
         "id": "36"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1605",
         "edition-name": "Electronic Variorum Edition of the Quixote",
         "url": "http://www.csdl.tamu.edu:8080/veri/index-en.html",
@@ -3719,7 +3796,10 @@
         "id": "37"
     },
     {
-        "historical-period": "Antiquity; Middle Ages",
+        "historical-period": [
+            "Antiquity",
+            "Middle Ages"
+        ],
         "time-century": "4th-9th",
         "edition-name": "Corpus Rhythmorum Musicum (SAEC. IV-IX) I - Songs from non-liturgical sources",
         "url": "http://www.corimu.unisi.it/",
@@ -3824,7 +3904,9 @@
         "id": "38"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "180 BC",
         "edition-name": "The Book of Ben Sira",
         "url": "http://www.bensira.org/",
@@ -3920,7 +4002,9 @@
         "id": "39"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1365-1431",
         "edition-name": "Christine de Pizan: The Making of the Queen's Manuscript",
         "url": "http://www.pizan.lib.ed.ac.uk/",
@@ -4009,7 +4093,9 @@
         "id": "40"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "9th-15th",
         "edition-name": "Corpus of the Inscriptions of Campā (CIC)",
         "url": "http://isaw.nyu.edu/publications/inscriptions/campa/",
@@ -4115,7 +4201,9 @@
         "id": "41"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1290-1320",
         "edition-name": "Dante Online",
         "url": "http://www.danteonline.it/italiano/home_ita.asp",
@@ -4205,7 +4293,9 @@
         "id": "42"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1825-1868",
         "edition-name": "Darwin Correspondence Project",
         "url": "http://www.darwinproject.ac.uk/",
@@ -4329,7 +4419,9 @@
         "id": "43"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1950",
         "edition-name": "De Trein der Traagheid",
         "url": "http://edities.kantl.be/daisne/",
@@ -4422,7 +4514,9 @@
         "id": "44"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "17th",
         "edition-name": "Early Stuart Libels",
         "url": "http://www.earlystuartlibels.net/htdocs/index.html",
@@ -4532,7 +4626,9 @@
         "id": "45"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "16th-17th",
         "edition-name": "Folger Shakespeare Editions",
         "url": "http://www.folgerdigitaltexts.org/",
@@ -4622,7 +4718,9 @@
         "id": "46"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1818; 1831",
         "edition-name": "Frankenstein",
         "url": "http://www.rc.umd.edu/editions/frankenstein/",
@@ -4711,7 +4809,9 @@
         "id": "47"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "500-1500",
         "edition-name": "Glossae.net",
         "url": "http://www.glossae.net",
@@ -4864,7 +4964,9 @@
         "id": "48"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1820-1856",
         "edition-name": "Heinrich-Heine Portal",
         "url": "http://germazope.uni-trier.de/Projekte/HHP",
@@ -4969,7 +5071,9 @@
         "id": "49"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1846-1896",
         "edition-name": "Henrik Ibsens Skrifter",
         "url": "http://www.ibsen.uio.no/forside.xhtml",
@@ -5061,7 +5165,9 @@
         "id": "50"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "19th",
         "edition-name": "Mark Twain Project",
         "url": "http://www.marktwainproject.org/homepage.html",
@@ -5166,7 +5272,9 @@
         "id": "51"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1497-1499",
         "edition-name": "Niccolò Canussio: De restitutione patriae",
         "url": "http://www.fondazionecanussio.org/patria.htm",
@@ -5255,7 +5363,9 @@
         "id": "52"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1225-1230",
         "edition-name": "Queste del Saint Graal",
         "url": "http://txm.bfm-corpus.org/?command=documentation&path=/GRAAL",
@@ -5346,7 +5456,9 @@
         "id": "53"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1331-1340",
         "edition-name": "The Auchinleck manuscript",
         "url": "http://auchinleck.nls.uk/index.html",
@@ -5436,7 +5548,10 @@
         "id": "54"
     },
     {
-        "historical-period": "Middle Ages; Early Modern",
+        "historical-period": [
+            "Middle Ages",
+            "Early Modern"
+        ],
         "time-century": "1596-1634",
         "edition-name": "The Casebooks Project",
         "url": "http://www.magicandmedicine.hps.cam.ac.uk/",
@@ -5526,7 +5641,9 @@
         "id": "55"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "4th",
         "edition-name": "The Confessions of Augustine: An Electronic Edition",
         "url": "http://www.stoa.org/hippo/",
@@ -5615,7 +5732,9 @@
         "id": "56"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "340-320 BC",
         "edition-name": "The Derveni Papyrus",
         "url": "http://chs.harvard.edu/CHS/article/display/5418",
@@ -5732,7 +5851,9 @@
         "id": "57"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "2nd",
         "edition-name": "The Gospel according to St. John",
         "url": "http://www.iohannes.com/",
@@ -5825,7 +5946,10 @@
         "id": "58"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1674-1913",
         "edition-name": "The Proceedings of the Old Bailey",
         "url": "http://www.oldbaileyonline.org/",
@@ -5917,7 +6041,9 @@
         "id": "59"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1590-1652",
         "edition-name": "The Richard Brome Project",
         "url": "http://www.hrionline.ac.uk/brome/",
@@ -6022,7 +6148,9 @@
         "id": "60"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "19th",
         "edition-name": "The Svoboda Diary Project",
         "url": "http://courses.washington.edu/otap/svoboda/public/index.html",
@@ -6112,7 +6240,9 @@
         "id": "61"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1788-1836",
         "edition-name": "William Godwin's Diary",
         "url": "http://godwindiary.bodleian.ox.ac.uk/index2.html",
@@ -6203,7 +6333,9 @@
         "id": "62"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1232-1316",
         "edition-name": "The Augsburg Web Edition of Llull's Electoral Writings",
         "url": "http://www.math.uni-augsburg.de/stochastik/llull/",
@@ -6296,7 +6428,9 @@
         "id": "63"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "200",
         "edition-name": "Digital Mishnah",
         "url": "http://www.digitalmishnah.org/",
@@ -6386,7 +6520,9 @@
         "id": "64"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "600 BC-900 AD",
         "edition-name": "The Online Critical Pseudepigrapha",
         "url": "http://ocp.tyndale.ca/",
@@ -6477,7 +6613,9 @@
         "id": "65"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "3rd BC-1st AD",
         "edition-name": "Dead Sea Scrolls",
         "url": "http://dss.collections.imj.org.il/",
@@ -6581,7 +6719,9 @@
         "id": "66"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1299-1345",
         "edition-name": "Editions of the Registers of the counts of Holland 1299-1345",
         "url": "http://www.historici.nl/Onderzoek/Projecten/RegistersVanDeHollandseGrafelijkheid1299-1345",
@@ -6685,7 +6825,9 @@
         "id": "67"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "17th",
         "edition-name": "Quijote Interactivo",
         "url": "http://quijote.bne.es/libro.html",
@@ -6774,7 +6916,9 @@
         "id": "68"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1803-1806",
         "edition-name": "The Journals of the Lewis and Clark Expedition",
         "url": "http://lewisandclarkjournals.unl.edu",
@@ -6866,7 +7010,10 @@
         "id": "69"
     },
     {
-        "historical-period": "Middle Ages; Early Modern",
+        "historical-period": [
+            "Middle Ages",
+            "Early Modern"
+        ],
         "time-century": "10th-17th",
         "edition-name": "Electronic Boethius CDROM",
         "url": "http://beowulf.engl.uky.edu/~kiernan/eBoethius/inlad.htm",
@@ -6985,7 +7132,10 @@
         "id": "70"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1773-1836",
         "edition-name": "James Mill's Common Place Books",
         "url": "http://www.intellectualhistory.net/mill/",
@@ -7091,7 +7241,9 @@
         "id": "71"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "13th",
         "edition-name": "A trial electronic edition of the Preface to 'Ancrene Wisse' for the Early English Text Society",
         "url": "http://tei.oucs.ox.ac.uk/Projects/EETS/soton/",
@@ -7194,7 +7346,9 @@
         "id": "72"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1898",
         "edition-name": "Digital Nestle-Aland",
         "url": "http://nestlealand.uni-muenster.de/",
@@ -7284,7 +7438,9 @@
         "id": "73"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1516-1532",
         "edition-name": "Orlando Furioso Hypertext",
         "url": "http://stel.ub.edu/orlando/",
@@ -7374,7 +7530,9 @@
         "id": "74"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "29 BC-19 BC",
         "edition-name": "The Vergil project. Resources for Students, Teachers, and Readers of Vergil",
         "url": "http://vergil.classics.upenn.edu/",
@@ -7470,7 +7628,9 @@
         "id": "75"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "14th",
         "edition-name": "Cantar de mio Cid",
         "url": "http://www.laits.utexas.edu/cid/index2.php?v=nor",
@@ -7559,7 +7719,9 @@
         "id": "76"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1200",
         "edition-name": "The Aberdeen Bestiary",
         "url": "http://www.abdn.ac.uk/bestiary/",
@@ -7648,7 +7810,9 @@
         "id": "77"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "86-103",
         "edition-name": "M. Valerii Martialis Epigrammaton Liber IV",
         "url": "http://www.curculio.org/Martial/Martial04.html",
@@ -7737,7 +7901,9 @@
         "id": "78"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st BC-1st AD",
         "edition-name": "P. Ovidii Nasonis Heroides I",
         "url": "http://www.curculio.org/Ovid/h01.html",
@@ -7826,7 +7992,9 @@
         "id": "79"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st BC",
         "edition-name": "Sexti Propertii Elegiae",
         "url": "http://www.curculio.org/Propertius/index.html",
@@ -7915,7 +8083,9 @@
         "id": "80"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st",
         "edition-name": "Sulpiciae Conquestio",
         "url": "http://www.curculio.org/Sulpiciae/index.html",
@@ -8004,7 +8174,9 @@
         "id": "81"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "370-404",
         "edition-name": "Claudii Claudiani Carmina Latina",
         "url": "http://www.curculio.org/Claudian/index.html",
@@ -8093,7 +8265,9 @@
         "id": "82"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st-2nd",
         "edition-name": "D. Iunii Iuvenalis Saturae",
         "url": "http://www.curculio.org/Juvenal/index.html",
@@ -8182,7 +8356,9 @@
         "id": "83"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "8th-12th",
         "edition-name": "Codice Diplomatico della Lombardia Medievale",
         "url": "http://cdlm.unipv.it/",
@@ -8274,7 +8450,9 @@
         "id": "84"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1343-1400",
         "edition-name": "Geoffrey Chaucer's Book of the Duchess: A Hypertext Edition",
         "url": "http://press.ucalgary.ca/books/9781552380369",
@@ -8364,7 +8542,9 @@
         "id": "85"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "not provided",
         "edition-name": "Inscriptiones Graecae in Croatia Repertae (IGCR)",
         "url": "http://www.ffzg.unizg.hr/klafil/dokuwiki/doku.php/z:epidoc-hrvatska",
@@ -8459,7 +8639,9 @@
         "id": "86"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1317-1468",
         "edition-name": "The Gascon Rolls Project",
         "url": "http://www.gasconrolls.org/en/",
@@ -8567,7 +8749,9 @@
         "id": "87"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "15th",
         "edition-name": "The Hengwrt Chaucer Digital Facsimile",
         "url": "http://www.sd-editions.com/AnaAdditional/HengwrtEx/images/hgopen.html",
@@ -8656,7 +8840,9 @@
         "id": "88"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1767-1974",
         "edition-name": "Carl-Maria-von-Weber-Gesamtausgabe",
         "url": "http://www.weber-gesamtausgabe.de/en/Index",
@@ -8767,7 +8953,9 @@
         "id": "89"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1871",
         "edition-name": "Livingstone's 1871 Field Diary",
         "url": "http://livingstone.library.ucla.edu/1871diary/manuscript1.htm",
@@ -8913,7 +9101,9 @@
         "id": "90"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "not provided",
         "edition-name": "Hyperdonat",
         "url": "http://hyperdonat.ens-lyon.fr/",
@@ -9047,7 +9237,9 @@
         "id": "91"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "2nd-12th",
         "edition-name": "Inscriptions of Aphrodisias Project",
         "url": "http://insaph.kcl.ac.uk/index.html",
@@ -9184,7 +9376,9 @@
         "id": "92"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st BC-4th AD",
         "edition-name": "Inscriptions of Roman Cyrenaica",
         "url": "http://ircyr.kcl.ac.uk/",
@@ -9308,7 +9502,9 @@
         "id": "93"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "1st BC-8th AD",
         "edition-name": "Inscriptions of Roman Tripolitania",
         "url": "http://irt.kcl.ac.uk/irt2009/",
@@ -9419,7 +9615,9 @@
         "id": "94"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "840-912",
         "edition-name": "e-sequence: Digital Edition of the Saint Gall corpus of Sequences by Notker Balbulus",
         "url": "http://www.e-sequence.eu/en/",
@@ -9572,7 +9770,9 @@
         "id": "95"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1633",
         "edition-name": "Phineas Fletcher's Sylva Poetica",
         "url": "http://www.philological.bham.ac.uk/sylva/",
@@ -9661,7 +9861,9 @@
         "id": "96"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "17th-18th",
         "edition-name": "The Latin Prose and Poetry of Joseph Addison",
         "url": "http://www.philological.bham.ac.uk/Addison/",
@@ -9750,7 +9952,9 @@
         "id": "97"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1869",
         "edition-name": "History in the Making: preparation of a genetic edition, dataset and hypertext of Part III, Chapter 1 of Flaubert's L'Education Sentimentale",
         "url": "http://www.hull.ac.uk/hitm/",
@@ -9845,7 +10049,9 @@
         "id": "98"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "15th",
         "edition-name": "An electronic corpus of 15th century Castillian canconiero manuscripts",
         "url": "http://cancionerovirtual.liv.ac.uk/",
@@ -9971,7 +10177,9 @@
         "id": "99"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "2nd",
         "edition-name": "Galenus' commentary on Hippocrates' \"On the articulations\"",
         "url": "http://pom.bbaw.de/cmg/",
@@ -10060,7 +10268,9 @@
         "id": "100"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "9th",
         "edition-name": "Edition der falschen Kapitularien des Benedictus Levita",
         "url": "http://www.benedictus.mgh.de/",
@@ -10157,7 +10367,9 @@
         "id": "101"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "744 BC-669 BC",
         "edition-name": "The Royal Inscriptions of the Neo-Assyrian Period",
         "url": "http://oracc.museum.upenn.edu/rinap/",
@@ -10257,7 +10469,9 @@
         "id": "102"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "13673-1438",
         "edition-name": "Book of Margery Kempe",
         "url": "http://english.selu.edu/humanitiesonline/kempe/index.php",
@@ -10364,7 +10578,9 @@
         "id": "103"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1332-1347",
         "edition-name": "William of Ockham: Dialogus",
         "url": "http://www.britac.ac.uk/pubs/dialogus/ockdial.html",
@@ -10453,7 +10669,9 @@
         "id": "104"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "11th",
         "edition-name": "Domesday Explorer",
         "url": "http://www.domesdaybook.net",
@@ -10544,7 +10762,9 @@
         "id": "105"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "19th",
         "edition-name": "Chopin's First Editions Online",
         "url": "http://www.cfeo.org.uk/index.html",
@@ -10753,7 +10973,9 @@
         "id": "106"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1787-1817",
         "edition-name": "Jane Austen's Fiction Manuscripts",
         "url": "http://www.janeausten.ac.uk/index.html",
@@ -10861,7 +11083,9 @@
         "id": "107"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1855-1892",
         "edition-name": "The Walt Whitman Archive",
         "url": "http://www.whitmanarchive.org/",
@@ -10950,7 +11174,10 @@
         "id": "108"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1868-1935",
         "edition-name": "Schenker Documents Online",
         "url": "http://www.schenkerdocumentsonline.org",
@@ -11070,7 +11297,9 @@
         "id": "109"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1810-1849",
         "edition-name": "Online Chopin Variorum Edition",
         "url": "http://www.ocve.org.uk/index.html",
@@ -11164,7 +11393,9 @@
         "id": "110"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1563; 1570; 1576; 1583",
         "edition-name": "John Foxe's The Acts and Monuments Online",
         "url": "http://www.johnfoxe.org/",
@@ -11285,7 +11516,9 @@
         "id": "111"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1304-1374",
         "edition-name": "Oregon Petrarch Open Book Project",
         "url": "http://petrarch.uoregon.edu/",
@@ -11377,7 +11610,9 @@
         "id": "112"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1486",
         "edition-name": "Conclusiones CM",
         "url": "http://www.stg.brown.edu/projects/pico/about.php",
@@ -11466,7 +11701,9 @@
         "id": "113"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1349-1353",
         "edition-name": "Decameron Web",
         "url": "http://www.brown.edu/Departments/Italian_Studies/dweb/index.php",
@@ -11556,7 +11793,9 @@
         "id": "114"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1487-1496",
         "edition-name": "Pico della Mirandola: De hominis dignitate",
         "url": "http://www.brown.edu/Departments/Italian_Studies/pico/index.html",
@@ -11649,7 +11888,9 @@
         "id": "115"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "500 BC-640 AD",
         "edition-name": "Inscriptions of Israel/Palestine",
         "url": "http://www.stg.brown.edu/projects/Inscriptions/index.shtml",
@@ -11750,7 +11991,9 @@
         "id": "116"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1200-1210",
         "edition-name": "Parzival-Projekt",
         "url": "http://www.parzival.unibe.ch/home.html",
@@ -11840,7 +12083,9 @@
         "id": "117"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1350-1353",
         "edition-name": "Decameron Ipertestuale",
         "url": "http://www.rose.uzh.ch/static/decameron/index3.htm",
@@ -11931,7 +12176,9 @@
         "id": "118"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1812",
         "edition-name": "Percy Bysshe Shelley: The Devil's Walk",
         "url": "http://www.rc.umd.edu/editions/shelley/devil/index.html",
@@ -12020,7 +12267,9 @@
         "id": "119"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1773",
         "edition-name": "Poems by Anna Laetitia Aikin",
         "url": "http://www.rc.umd.edu/editions/contemps/barbauld/poems1773/",
@@ -12110,7 +12359,10 @@
         "id": "120"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1766-1823",
         "edition-name": "The Letters of Robert Bloomfield",
         "url": "http://www.rc.umd.edu/editions/bloomfield_letters/",
@@ -12199,7 +12451,9 @@
         "id": "121"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "17th",
         "edition-name": "The Shelley-Godwin Archive",
         "url": "http://www.shelleygodwinarchive.org/",
@@ -12364,7 +12618,9 @@
         "id": "122"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1822",
         "edition-name": "Thomas Lovell Beddoes: The Brides' Tragedy",
         "url": "http://www.rc.umd.edu/editions/beddoes/intro.html",
@@ -12453,7 +12709,9 @@
         "id": "123"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1326-1400",
         "edition-name": "The Online Froissart",
         "url": "http://www.hrionline.ac.uk/onlinefroissart/index.jsp",
@@ -12556,7 +12814,9 @@
         "id": "124"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1350-1425",
         "edition-name": "Welsh Prose 1350-1425",
         "url": "http://www.rhyddiaithganoloesol.caerdydd.ac.uk/en/",
@@ -12646,7 +12906,9 @@
         "id": "125"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1642-1727",
         "edition-name": "The Newton Project",
         "url": "http://www.newtonproject.sussex.ac.uk/prism.php?id=1",
@@ -12745,7 +13007,9 @@
         "id": "126"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "10th",
         "edition-name": "Vercelli Book Digitale",
         "url": "http://vbd.humnet.unipi.it",
@@ -12835,7 +13099,9 @@
         "id": "127"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1293-1295",
         "edition-name": "I testimoni della Vita Nova",
         "url": "http://vitanova.unipv.it/",
@@ -12926,7 +13192,9 @@
         "id": "128"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1818",
         "edition-name": "Frankenstein; or, the Modern Prometheus",
         "url": "http://knarf.english.upenn.edu/",
@@ -13015,7 +13283,9 @@
         "id": "129"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1837-1873",
         "edition-name": "Livingstone Online",
         "url": "http://www.livingstoneonline.ucl.ac.uk",
@@ -13293,7 +13563,9 @@
         "id": "130"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "14th",
         "edition-name": "Edizione Critica Ipertestuale dello Zibaldone Laurenziano (Pluteo XXIX.8) autografo di Giovanni Boccaccio",
         "url": "http://rmcisadu.let.uniroma1.it/boccaccio/",
@@ -13382,7 +13654,9 @@
         "id": "131"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1530-1540",
         "edition-name": "A Social Edition of the Devonshire MS (BL Add 17,492)",
         "url": "http://en.wikibooks.org/wiki/The_Devonshire_Manuscript",
@@ -13471,7 +13745,9 @@
         "id": "132"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "15th-17th",
         "edition-name": "Les Bibliothèques Virtuelles Humanistes",
         "url": "http://www.bvh.univ-tours.fr/#",
@@ -13561,7 +13837,9 @@
         "id": "133"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1450",
         "edition-name": "The Paris Codex",
         "url": "http://digital.library.northwestern.edu/codex/index.html",
@@ -13651,7 +13929,9 @@
         "id": "134"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1787-1788",
         "edition-name": "The Memorandoms of James Martin",
         "url": "https://www.ucl.ac.uk/Bentham-Project/publications/martins-memorandoms/martins-memorandoms.html",
@@ -13740,7 +14020,9 @@
         "id": "135"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "13th",
         "edition-name": "Actes Royaux",
         "url": "http://www.cn-telma.fr/actesroyaux/index/",
@@ -13830,7 +14112,9 @@
         "id": "136"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "pre-1920",
         "edition-name": "American Verse Project",
         "url": "http://quod.lib.umich.edu/a/amverse/",
@@ -13933,7 +14217,9 @@
         "id": "137"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "11th",
         "edition-name": "Bernard Muir's CD-ROM facsimile of Bodleian Library MS Junius 11",
         "url": "http://www.bodleianshop.co.uk/a-digital-facsimile-of-oxford-bodleian-library-ms-junius-11.html",
@@ -14024,7 +14310,9 @@
         "id": "138"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1759",
         "edition-name": "Candide 2.0",
         "url": "http://candide.nypl.org/text/",
@@ -14116,7 +14404,9 @@
         "id": "139"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1941-1944",
         "edition-name": "Chronik des Gettos Łódź / Litzmannstadt",
         "url": "http://www.getto-chronik.de/de/",
@@ -14208,7 +14498,9 @@
         "id": "140"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1853-1867",
         "edition-name": "Clotel by William Wells Brown",
         "url": "http://www.upress.virginia.edu/content/clotel-william-wells-brown-electronic-scholarly-edition",
@@ -14299,7 +14591,9 @@
         "id": "141"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "not provided",
         "edition-name": "DASI: Digital Archive for the Study of Pre-Islamic Arabian Inscriptions",
         "url": "http://dasi.humnet.unipi.it/",
@@ -14402,7 +14696,9 @@
         "id": "142"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "14th",
         "edition-name": "Datini, Lettere",
         "url": "http://datini.archiviodistato.prato.it/la-ricerca/le-edizioni-delle-lettere#n",
@@ -14491,7 +14787,9 @@
         "id": "143"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1826",
         "edition-name": "Digital Shikshapatri",
         "url": "http://www.shikshapatri.org.uk/",
@@ -14581,7 +14879,9 @@
         "id": "144"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "975-1025",
         "edition-name": "Electronic Beowulf 4.0",
         "url": "http://ebeowulf.uky.edu/",
@@ -14672,7 +14972,9 @@
         "id": "145"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "19th",
         "edition-name": "Emily Dickinson's Archive",
         "url": "http://www.edickinson.org/",
@@ -14770,7 +15072,9 @@
         "id": "146"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1830-1886",
         "edition-name": "Emily Dickinson's Correspondences",
         "url": "http://rotunda.upress.virginia.edu/edc/",
@@ -14861,7 +15165,9 @@
         "id": "147"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1555",
         "edition-name": "Gabriel Harvey's Livy Online",
         "url": "http://abo.annotatedbooksonline.com/#binding-5-1",
@@ -14986,7 +15292,9 @@
         "id": "148"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1600-1630",
         "edition-name": "Galileo Galilei's Notes on Motion",
         "url": "http://www.mpiwg-berlin.mpg.de/Galileo_Prototype/MAIN.HTM",
@@ -15077,7 +15385,9 @@
         "id": "149"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "15th",
         "edition-name": "Göttinger Statuten (kundige bok 2)",
         "url": "http://kundigebok.stadtarchiv.goettingen.de/kb2Web/html/",
@@ -15166,7 +15476,9 @@
         "id": "150"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1819-1891",
         "edition-name": "Herman Melville's Typee",
         "url": "http://rotunda.upress.virginia.edu/melville/",
@@ -15257,7 +15569,9 @@
         "id": "151"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "18th",
         "edition-name": "In Mozart's Words",
         "url": "http://letters.mozartways.com/",
@@ -15377,7 +15691,10 @@
         "id": "152"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "19th",
         "edition-name": "Intibah Edition and Transcription",
         "url": "http://courses.washington.edu/otap/intibah/intibah.html",
@@ -15466,7 +15783,9 @@
         "id": "153"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1879",
         "edition-name": "Jerilderie Letter",
         "url": "http://www.nma.gov.au/collections/collection_interactives/jerilderie_letter",
@@ -15555,7 +15874,9 @@
         "id": "154"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1621",
         "edition-name": "John Barclay: Argenis",
         "url": "http://www.chlt.org/sandbox/colloquia/argenis/index.html",
@@ -15645,7 +15966,9 @@
         "id": "155"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1819-1839",
         "edition-name": "Journal of Emily Shore",
         "url": "http://rotunda.upress.virginia.edu/EmilyShore/make-page.xqy",
@@ -15735,7 +16058,9 @@
         "id": "156"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1846-1870",
         "edition-name": "Lautréamont / Ducasse",
         "url": "http://www.phalese.fr/Maldoror/index.php?title=Accueil",
@@ -15825,7 +16150,9 @@
         "id": "157"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1217-1282",
         "edition-name": "Le Cartulaire de la seigneurie de Nesle",
         "url": "http://www.cn-telma.fr/nesle/index/",
@@ -15900,7 +16227,10 @@
         "id": "158"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1785-1812",
         "edition-name": "Martha Ballard's Diary Online",
         "url": "http://dohistory.org/diary/index.html",
@@ -15990,7 +16320,9 @@
         "id": "159"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1855-1920",
         "edition-name": "Olive Schreiner Letters Online",
         "url": "http://www.oliveschreiner.org/",
@@ -16107,7 +16439,10 @@
         "id": "160"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "19th-20th",
         "edition-name": "Online Electronic Variorum of the Works of Rabindranath Tagore",
         "url": "http://rabindranathtagore-150.gov.in/online-voriourum.html",
@@ -16199,7 +16534,9 @@
         "id": "161"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "13th-14th",
         "edition-name": "Ordonnances de l'hôtel du roi",
         "url": "http://www.cn-telma.fr/ordonnances/index/",
@@ -16274,7 +16611,9 @@
         "id": "162"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "2nd BC",
         "edition-name": "Septuaginta LXX",
         "url": "http://septuaginta.net/",
@@ -16363,7 +16702,9 @@
         "id": "163"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "not provided",
         "edition-name": "Sirat Bani Hilal Digital Archive",
         "url": "http://www.siratbanihilal.ucsb.edu/start-0",
@@ -16455,7 +16796,9 @@
         "id": "164"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1830-1855",
         "edition-name": "Søren Kierkegaards Skrifter",
         "url": "http://sks.dk/forside/indhold.asp",
@@ -16544,7 +16887,9 @@
         "id": "165"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1927",
         "edition-name": "Stijn Streuvels: De teleurgang van den Waterhoek (The decline of the Waterhoek) CDROM",
         "url": "http://ctb.kantl.be/publicaties/de-teleurgang-van-den-waterhoek-elektronisch-kritische-editie-electronic-c",
@@ -16634,7 +16979,10 @@
         "id": "166"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1735-1826",
         "edition-name": "The Adams Papers",
         "url": "http://rotunda.upress.virginia.edu/founders/ADMS.html",
@@ -16724,7 +17072,9 @@
         "id": "167"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1649-1785",
         "edition-name": "The Alcalá Account Book Project",
         "url": "http://drapier.dho.ie/node/232",
@@ -16827,7 +17177,10 @@
         "id": "168"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1869-1951",
         "edition-name": "The André Gide Editions Project",
         "url": "http://hridigital.shef.ac.uk/gide",
@@ -16918,7 +17271,9 @@
         "id": "169"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "18th",
         "edition-name": "The Benjamin Marston Diary Project",
         "url": "http://www.lib.unb.ca/Texts/marston/",
@@ -17007,7 +17362,9 @@
         "id": "170"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "18th-19th",
         "edition-name": "The Bevan Family Letters",
         "url": "http://rth.org.uk/collections/bevan-dewar-letters",
@@ -17096,7 +17453,9 @@
         "id": "171"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "15th",
         "edition-name": "The Burnet Psalter",
         "url": "http://www.abdn.ac.uk/diss/historic/collects/bps/index.html",
@@ -17185,7 +17544,9 @@
         "id": "172"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "14th",
         "edition-name": "The Canterbury Tales Project",
         "url": "http://www.textualcommunities.usask.ca/web/canterbury-tales",
@@ -17274,7 +17635,9 @@
         "id": "173"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1593-1633",
         "edition-name": "The Digital Temple: A Documentary Edition of George Herbert's English Verse",
         "url": "http://digitaltemple.rotunda.upress.virginia.edu/",
@@ -17365,7 +17728,10 @@
         "id": "174"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "19th-20th",
         "edition-name": "The Diriks Family Scrapbooks",
         "url": "http://www.nb.no/baser/diriks/virtuellealbum/index.html",
@@ -17454,7 +17820,9 @@
         "id": "175"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1770s-1880s",
         "edition-name": "The Documentary History of the Ratification of the Constitution",
         "url": "http://rotunda.upress.virginia.edu/founders/RNCN.html",
@@ -17548,7 +17916,9 @@
         "id": "176"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1788-1843",
         "edition-name": "The Dolley Madison Digital Edition",
         "url": "http://rotunda.upress.virginia.edu/dmde/",
@@ -17638,7 +18008,9 @@
         "id": "177"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1503-1510",
         "edition-name": "The Geese Book",
         "url": "http://geesebook.asu.edu",
@@ -17739,7 +18111,9 @@
         "id": "178"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1600-1662",
         "edition-name": "The Hartlib Papers Project",
         "url": "https://www.hrionline.ac.uk/hartlib/",
@@ -17829,7 +18203,9 @@
         "id": "179"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1830-1894",
         "edition-name": "The Letters of Christina Rossetti",
         "url": "http://rotunda.upress.virginia.edu/crossetti/",
@@ -17919,7 +18295,9 @@
         "id": "180"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1822-1888",
         "edition-name": "The Letters of Matthew Arnold",
         "url": "http://rotunda.upress.virginia.edu/arnold/",
@@ -18009,7 +18387,9 @@
         "id": "181"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1469-1470",
         "edition-name": "The Malory Project",
         "url": "http://www.maloryproject.com/",
@@ -18114,7 +18494,10 @@
         "id": "182"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1755-1804",
         "edition-name": "The Papers of Alexander Hamilton",
         "url": "http://rotunda.upress.virginia.edu/founders/ARHN.html",
@@ -18204,7 +18587,10 @@
         "id": "183"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1739-1830",
         "edition-name": "The Papers of Eliza Lucas Pinckney and Harriot Pinckney Horry",
         "url": "http://rotunda.upress.virginia.edu/PinckneyHorry/",
@@ -18295,7 +18681,10 @@
         "id": "184"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1732-1799",
         "edition-name": "The Papers of George Washington",
         "url": "http://rotunda.upress.virginia.edu/founders/GEWN.html",
@@ -18385,7 +18774,10 @@
         "id": "185"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1751-1836",
         "edition-name": "The Papers of James Madison",
         "url": "http://rotunda.upress.virginia.edu/founders/JSMN.html",
@@ -18475,7 +18867,10 @@
         "id": "186"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1743-1826",
         "edition-name": "The Papers of Thomas Jefferson",
         "url": "http://rotunda.upress.virginia.edu/founders/TSJN.html",
@@ -18565,7 +18960,9 @@
         "id": "187"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1843-1920",
         "edition-name": "The Pérez Galdós Editions Project",
         "url": "http://hridigital.shef.ac.uk/galdos",
@@ -18656,7 +19053,9 @@
         "id": "188"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "943",
         "edition-name": "The Planctus for William Longsword",
         "url": "http://vlib.iue.it/carrie/documents/planctus/planctus/index.html",
@@ -18746,7 +19145,9 @@
         "id": "189"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "18th-19th",
         "edition-name": "The Zibaldone project",
         "url": "http://www.birmingham.ac.uk/research/activity/leopardi/projects/index.aspx",
@@ -18835,7 +19236,9 @@
         "id": "190"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1914-1918",
         "edition-name": "Virginie Loveling’s Diary",
         "url": "http://edities.kantl.be/loveling/",
@@ -18926,7 +19329,9 @@
         "id": "191"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1810-1876",
         "edition-name": "William Golder Electronic Edition",
         "url": "http://nzetc.victoria.ac.nz/tm/scholarly/tei-corpus-golder.html",
@@ -19016,7 +19421,9 @@
         "id": "192"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1200",
         "edition-name": "William of Palerne",
         "url": "http://trove.nla.gov.au/work/33020507",
@@ -19105,7 +19512,10 @@
         "id": "193"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "20th",
         "edition-name": "Wittgensteins Nachlass: The Bergen Electronic Edition",
         "url": "http://www.nlx.com/collections/124",
@@ -19198,7 +19608,9 @@
         "id": "194"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1898",
         "edition-name": "Zibaldone Europeo",
         "url": "http://www.birmingham.ac.uk/research/activity/leopardi/projects/barcelona.aspx",
@@ -19288,7 +19700,9 @@
         "id": "195"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1681",
         "edition-name": "Pietro Mellini's Inventory in verse 1681",
         "url": "http://www.getty.edu/research/mellini/",
@@ -19379,7 +19793,10 @@
         "id": "196"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "16-18th",
         "edition-name": "Inscriptiones Alborum Amicorum",
         "url": "http://iaa.bibl.u-szeged.hu/index.php",
@@ -19481,7 +19898,9 @@
         "id": "197"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1566",
         "edition-name": "George Etheridge's Encomium on Henry VIII addressed to Elizabeth II, British Library Royal MS 16 C X",
         "url": "http://hellenic-institute.rhul.ac.uk/Research/Etheridge/",
@@ -19588,7 +20007,9 @@
         "id": "198"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16th",
         "edition-name": "Digitalisierte Edition des Ältesten Appenzeller Landbuchs",
         "url": "http://www.ssrq-sds-fds.ch/teiviewer/",
@@ -19678,7 +20099,9 @@
         "id": "199"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1500-1548",
         "edition-name": "Corpus of Ioannes Dantiscus' Texts & Correspondence",
         "url": "http://dantiscus.al.uw.edu.pl/",
@@ -19779,7 +20202,9 @@
         "id": "200"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "14th",
         "edition-name": "Dante's Commedia",
         "url": "http://sd-editions.com/AnaAdditional/commediaonline/home.html",
@@ -19872,7 +20297,9 @@
         "id": "201"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1550-1563",
         "edition-name": "A London Provisioner's Chronicle, 1550–1563, by Henry Machyn: Manuscript, Transcription, and Modernization",
         "url": "http://quod.lib.umich.edu/m/machyn/",
@@ -19962,7 +20389,9 @@
         "id": "202"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "501-1882",
         "edition-name": "Collection of Swiss Law Sources",
         "url": "http://www.ssrq-sds-fds.ch/online/",
@@ -20060,7 +20489,9 @@
         "id": "203"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1475-1490",
         "edition-name": "El Cancionero digital de Gómez Manrique (páginas 11-44)",
         "url": "http://www.realbiblioteca.es/gomez_manrique/cancionero.html",
@@ -20151,7 +20582,10 @@
         "id": "204"
     },
     {
-        "historical-period": "Antiquity; Middle Ages",
+        "historical-period": [
+            "Antiquity",
+            "Middle Ages"
+        ],
         "time-century": "pre-AD 900",
         "edition-name": "ASChart Anglo-Saxon Charters",
         "url": "http://www.aschart.kcl.ac.uk/index.html",
@@ -20255,7 +20689,9 @@
         "id": "205"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1130-1140",
         "edition-name": "Excerpts from the Chronicle of Matthew of Edessa",
         "url": "http://byzantini.st/ChronicleME/",
@@ -20345,7 +20781,9 @@
         "id": "206"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1715-1728",
         "edition-name": "Les Cours d’Antoine Desgodets",
         "url": "http://www.desgodets.net",
@@ -20436,7 +20874,9 @@
         "id": "207"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1599-1656",
         "edition-name": "Digitale Edition und Kommentierung der Tagebücher des Fürsten Christian II. von Anhalt-Bernburg",
         "url": "http://diglib.hab.de/wdb.php?dir=edoc/ed000228&lang=en",
@@ -20541,7 +20981,9 @@
         "id": "208"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "12th",
         "edition-name": "Die Relatio Adelberts von Heidenheim und der Text Ilsungs",
         "url": "http://www.forschungsdatenarchiv.escience.uni-tuebingen.de/adlils/",
@@ -20635,7 +21077,9 @@
         "id": "209"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1280-1420",
         "edition-name": "Je chante ung chant",
         "url": "http://jechante.exeter.ac.uk/archive/index.html",
@@ -20732,7 +21176,9 @@
         "id": "210"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1890-1954",
         "edition-name": "Einstein Archives Online",
         "url": "http://www.alberteinstein.info/",
@@ -20845,7 +21291,9 @@
         "id": "211"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1241",
         "edition-name": "Codice Pelavicino",
         "url": "http://pelavicino.labcd.unipi.it/",
@@ -20969,7 +21417,9 @@
         "id": "212"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1927",
         "edition-name": "Woolf Online",
         "url": "http://www.woolfonline.com/",
@@ -21064,7 +21514,9 @@
         "id": "213"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1851",
         "edition-name": "Les manuscrits de Madame Bovary",
         "url": "http://www.bovary.fr/",
@@ -21170,7 +21622,9 @@
         "id": "214"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "19th",
         "edition-name": "Digital Schomburg Editions: African American Women Writers of the 19th century",
         "url": "http://digital.nypl.org/schomburg/writers_aa19/",
@@ -21263,7 +21717,10 @@
         "id": "215"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "18th-19th",
         "edition-name": "Faust Edition",
         "url": "http://beta.faustedition.net/",
@@ -21385,7 +21842,9 @@
         "id": "216"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1859-1890",
         "edition-name": "Theodor Fontane: Notizbücher",
         "url": "https://fontane-nb.dariah.eu/index.html",
@@ -21492,7 +21951,9 @@
         "id": "217"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1707-1772",
         "edition-name": "Johann Christian Senckenberg: Digital Edition of the Diaries",
         "url": "http://senckenberg.ub.uni-frankfurt.de/s/startpage",
@@ -21586,7 +22047,9 @@
         "id": "218"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1829-1869",
         "edition-name": "Édition des journaux d'Alexandre Dumas",
         "url": "http://alexandredumas.org/",
@@ -21692,7 +22155,9 @@
         "id": "219"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1820-1859",
         "edition-name": "Alexander von Humboldt Briefedition",
         "url": "http://telota.bbaw.de/AvHBriefedition/index.html",
@@ -21783,7 +22248,9 @@
         "id": "220"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1843-1897",
         "edition-name": "Jacob Burckhardt",
         "url": "http://burckhardtsource.org/",
@@ -21896,7 +22363,12 @@
         "id": "221"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century; Modern; Contemporary",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century",
+            "Modern",
+            "Contemporary"
+        ],
         "time-century": "1641-2010",
         "edition-name": "Key Documents of German-Jewish History",
         "url": "http://jewish-history-online.net/",
@@ -21995,7 +22467,9 @@
         "id": "222"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "630-570",
         "edition-name": "Sappho’s Poems",
         "url": "http://inamidst.com/stuff/sappho/",
@@ -22089,7 +22563,9 @@
         "id": "223"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1532",
         "edition-name": "L’Orlando Furioso e la sua traduzione in immagini",
         "url": "http://www.orlandofurioso.org/",
@@ -22181,7 +22657,9 @@
         "id": "224"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "18th-19th",
         "edition-name": "Schopenhauer’s Library: Annotations and marks in his Spanish books",
         "url": "http://www.schopenhauer.uni.wroc.pl/",
@@ -22272,7 +22750,9 @@
         "id": "225"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16th",
         "edition-name": "Clavius on the Web",
         "url": "http://claviusontheweb.it/",
@@ -22395,7 +22875,9 @@
         "id": "226"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1926-1927",
         "edition-name": "The Fleischmann Diaries",
         "url": "http://fleischmanndiaries.ucc.ie/",
@@ -22485,7 +22967,9 @@
         "id": "227"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1600-1900",
         "edition-name": "Deutsches Textarchiv (DTA)",
         "url": "http://www.deutschestextarchiv.de/",
@@ -22577,7 +23061,9 @@
         "id": "228"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "9th",
         "edition-name": "Project Tarsian: First Corinthians in Vaticanus Arabicus 13",
         "url": "http://tarsian.vital-it.ch/",
@@ -22666,7 +23152,9 @@
         "id": "229"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1915-1916",
         "edition-name": "Letters of 1916",
         "url": "http://dh.tcd.ie/letters1916/",
@@ -22772,7 +23260,9 @@
         "id": "230"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "700 BC-500 AD",
         "edition-name": "Bibliotheca Iuris Antiqui (BIA)",
         "url": "http://www.ittig.cnr.it",
@@ -22868,7 +23358,10 @@
         "id": "231"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1634-1830",
         "edition-name": "The Wandering Jew's Chronicle",
         "url": "http://wjc.bodleian.ox.ac.uk",
@@ -22973,7 +23466,9 @@
         "id": "232"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "43-410",
         "edition-name": "Roman Inscriptions of Britain",
         "url": "https://romaninscriptionsofbritain.org/",
@@ -23071,7 +23566,9 @@
         "id": "233"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1675; 1679; 1680",
         "edition-name": "Teutsche Academie der Bau-, Bild- und Mahlerey-Künste, Joachim von Sandrart, Nürnberg 1675/1679/1680: Wissenschaftlich kommentierte Online-Edition",
         "url": "http://ta.sandrart.net/de/",
@@ -23208,7 +23705,9 @@
         "id": "234"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1680-1710",
         "edition-name": "ABaC:us - Austrian Baroque Corpus",
         "url": "https://acdh.oeaw.ac.at/abacus/",
@@ -23311,7 +23810,9 @@
         "id": "235"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1859-1872",
         "edition-name": "Darwin Online: Online Variorum of Darwin’s Origin of Species",
         "url": "http://darwin-online.org.uk/Variorum/",
@@ -23419,7 +23920,9 @@
         "id": "236"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "15th-12th BC",
         "edition-name": "Dāmos Database of Mycenaean at Oslo",
         "url": "https://www2.hf.uio.no/damos/",
@@ -23514,7 +24017,9 @@
         "id": "237"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "20th",
         "edition-name": "Van Nu en Straks brieven",
         "url": "http://www.vnsbrieven.org/VNS/",
@@ -23608,7 +24113,9 @@
         "id": "238"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "20th",
         "edition-name": "Streuvels en zijn uitgevers – brieven",
         "url": "http://edities.kantl.be/streuvels/",
@@ -23703,7 +24210,10 @@
         "id": "239"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1880-1926",
         "edition-name": "Briefwechsel Sauer-Seuffert",
         "url": "http://sauer-seuffert.onb.ac.at/",
@@ -23811,7 +24321,9 @@
         "id": "240"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "9th",
         "edition-name": "Ursus from Benevento, De nomine",
         "url": "http://www1.unipa.it/paolo.monella/ursus/transcription.html",
@@ -23904,7 +24416,10 @@
         "id": "241"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1846-1917",
         "edition-name": "William F. Cody Archive",
         "url": "http://codyarchive.org/",
@@ -24052,7 +24567,10 @@
         "id": "242"
     },
     {
-        "historical-period": "Middle Ages; Early Modern",
+        "historical-period": [
+            "Middle Ages",
+            "Early Modern"
+        ],
         "time-century": "15th",
         "edition-name": "Johannes Tinctoris: Complete Theoretical Works",
         "url": "http://earlymusictheory.org/Tinctoris/",
@@ -24145,7 +24663,9 @@
         "id": "243"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "2nd",
         "edition-name": "Digital Athenaeus",
         "url": "http://digitalathenaeus.org/",
@@ -24237,7 +24757,9 @@
         "id": "244"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "13th",
         "edition-name": "Magistri Guillelmi Autissiodorensis Summa de officiis ecclesiasticis",
         "url": "http://guillelmus.uni-koeln.de/",
@@ -24340,7 +24862,10 @@
         "id": "245"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "20th",
         "edition-name": "Musil Online",
         "url": "http://musilonline.at/",
@@ -24432,7 +24957,9 @@
         "id": "246"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "6th-8th",
         "edition-name": "A Comprehensive Edition of Tocharian Manuscripts",
         "url": "http://www.univie.ac.at/tocharian/",
@@ -24524,7 +25051,9 @@
         "id": "247"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1800-1830",
         "edition-name": "Briefe und Texte aus dem Intellektuellen Berlin um 1800",
         "url": "http://www.berliner-intellektuelle.eu/",
@@ -24628,7 +25157,9 @@
         "id": "248"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "17th",
         "edition-name": "Biblioteca Digital del Pensamiento Novohispano",
         "url": "http://www.bdpn.unam.mx/",
@@ -24723,7 +25254,10 @@
         "id": "249"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1902-1953",
         "edition-name": "Bliss-Tyler Correspondence",
         "url": "http://www.doaks.org/resources/bliss-tyler-correspondence/",
@@ -24812,7 +25346,10 @@
         "id": "250"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1766-1859",
         "edition-name": "Edition Humboldt Digital",
         "url": "http://avhr.bbaw.de/index.xql",
@@ -24907,7 +25444,9 @@
         "id": "251"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1446-1497",
         "edition-name": "Vespasiano da Bisticci, Lettere",
         "url": "http://vespasianodabisticciletters.unibo.it",
@@ -25009,7 +25548,9 @@
         "id": "252"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1711-1722",
         "edition-name": "Digitale Edition der Briefe Erdmuthe Benignas von Reuß-Ebersdorf (1670-1732)",
         "url": "http://erdmuthe.thulb.uni-jena.de",
@@ -25132,7 +25673,9 @@
         "id": "253"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1901-1935",
         "edition-name": "Jane Addams Digital Edition",
         "url": "https://digital.janeaddams.ramapo.edu/",
@@ -25236,7 +25779,9 @@
         "id": "254"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1662-1666",
         "edition-name": "Les Pensées de Blaise Pascal",
         "url": "http://www.penseesdepascal.fr",
@@ -25329,7 +25874,9 @@
         "id": "255"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1930-1931",
         "edition-name": "Ödön von Horváth: Historisch-kritische Ausgabe – Digitale Edition",
         "url": "http://gams.uni-graz.at/horvath-edition",
@@ -25444,7 +25991,9 @@
         "id": "256"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1400",
         "edition-name": "Lament of St. Anselm",
         "url": "http://library.trinity.edu/lament/index.html",
@@ -25557,7 +26106,10 @@
         "id": "257"
     },
     {
-        "historical-period": "Early Modern; Long Nineteenth Century",
+        "historical-period": [
+            "Early Modern",
+            "Long Nineteenth Century"
+        ],
         "time-century": "1770-1827",
         "edition-name": "Beethovens Werkstatt",
         "url": "http://beethovens-werkstatt.de/",
@@ -25684,7 +26236,9 @@
         "id": "258"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1840-1900",
         "edition-name": "The Charles Harpur Critical Archive",
         "url": "http://charles-harpur.org/",
@@ -25781,7 +26335,9 @@
         "id": "259"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1613",
         "edition-name": "La Dama Boba",
         "url": "http://damaboba.unibo.it/",
@@ -25871,7 +26427,9 @@
         "id": "260"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1823",
         "edition-name": "En el ojo del huracán. Cartas de ultramar a España 1823",
         "url": "http://www.cartas-de-ultramar.net/",
@@ -25969,7 +26527,9 @@
         "id": "261"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1926",
         "edition-name": "Kosztolányi Dezső: Édes Anna",
         "url": "http://magyar-irodalom.elte.hu/gepesk/kd/edesanna/",
@@ -26060,7 +26620,9 @@
         "id": "262"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1926",
         "edition-name": "Kosztolányi Dezső: Édes Anna",
         "url": "http://digiphil.hu/context:edesanna",
@@ -26154,7 +26716,9 @@
         "id": "263"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1922",
         "edition-name": "Kassák Lajos: The Horse Dies the Birds Fly Away / A ló meghal a madarak kirepülnek",
         "url": "http://digiphil.hu/context:alomeghal",
@@ -26258,7 +26822,9 @@
         "id": "264"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1924-1929",
         "edition-name": "Kosztolányi Dezső: Aranysárkány",
         "url": "http://digiphil.hu/context:aranysarkany",
@@ -26354,7 +26920,9 @@
         "id": "265"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1933",
         "edition-name": "Kosztolányi Dezső: Esti Kornél",
         "url": "http://digiphil.hu/context:estikornel",
@@ -26450,7 +27018,9 @@
         "id": "266"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1595-1608",
         "edition-name": "Fanchali Jób-kódex",
         "url": "http://www.tankonyvtar.hu/hu/tartalom/tkt/fanchali-job-kodex/adatok.html",
@@ -26547,7 +27117,9 @@
         "id": "267"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1845",
         "edition-name": "Eötvös József: A falu jegyzóje",
         "url": "http://magyar-irodalom.elte.hu/totnes/eotvos/",
@@ -26636,7 +27208,9 @@
         "id": "268"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1923-1937",
         "edition-name": "József Attila összes tanulmánya és cikke",
         "url": "http://magyar-irodalom.elte.hu/ja/",
@@ -26729,7 +27303,9 @@
         "id": "269"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1930-1937",
         "edition-name": "József Attila összes tanulmánya és cikke. Szövegek 1930-1937",
         "url": "http://textus.elte.hu/ja/",
@@ -26821,7 +27397,9 @@
         "id": "270"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "13th-15th",
         "edition-name": "Estoria de Espanna Digital",
         "url": "http://estoria.bham.ac.uk/",
@@ -26916,7 +27494,9 @@
         "id": "271"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "17th",
         "edition-name": "Gergei Albert: Árgirus históriája (version 1)",
         "url": "http://www.tankonyvtar.hu/en/tartalom/tkt/argirus-historiaja/adatok.html",
@@ -27012,7 +27592,9 @@
         "id": "272"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1603-1606",
         "edition-name": "Wathay Ferenc összes műve",
         "url": "http://magyar-irodalom.elte.hu/gepesk/wathay/",
@@ -27102,7 +27684,9 @@
         "id": "273"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1651",
         "edition-name": "Adriai tengernek syrénája, gróf Zrínyi Miklós",
         "url": "http://magyar-irodalom.elte.hu/gepesk/zrinyi/",
@@ -27195,7 +27779,9 @@
         "id": "274"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16th-17th",
         "edition-name": "Rimay János verseinek fragmentumi",
         "url": "http://magyar-irodalom.elte.hu/gepesk/rimay/",
@@ -27287,7 +27873,9 @@
         "id": "275"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16th-17th",
         "edition-name": "Rimay János ifjúkori versgyűjteménye",
         "url": "http://www.tankonyvtar.hu/hu/tartalom/tkt/rimay-janos-ifjukori/",
@@ -27382,7 +27970,9 @@
         "id": "276"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1588",
         "edition-name": "Effectus amoris",
         "url": "http://magyar-irodalom.elte.hu/effectus/",
@@ -27474,7 +28064,10 @@
         "id": "277"
     },
     {
-        "historical-period": "Middle Ages; Early Modern",
+        "historical-period": [
+            "Middle Ages",
+            "Early Modern"
+        ],
         "time-century": "1526-1527",
         "edition-name": "Érdy-kódex",
         "url": "http://sermones.elte.hu/erdy/",
@@ -27564,7 +28157,10 @@
         "id": "278"
     },
     {
-        "historical-period": "Middle Ages; Early Modern",
+        "historical-period": [
+            "Middle Ages",
+            "Early Modern"
+        ],
         "time-century": "15th-16th",
         "edition-name": "Régi Magyar Exemplumadatbázis/ Database of Old Hungarian Exempla",
         "url": "http://sermones.elte.hu/exemplumadatbazis/",
@@ -27659,7 +28255,9 @@
         "id": "279"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1767-1831",
         "edition-name": "Kazinczy Ferenc összes művei",
         "url": "http://deba.unideb.hu/deba/kazinczy_muvei/",
@@ -27771,7 +28369,9 @@
         "id": "280"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1792-1805",
         "edition-name": "Csokonai Vitéz Mihály összes művei",
         "url": "http://deba.unideb.hu/deba/csokonai_muvei/",
@@ -27882,7 +28482,9 @@
         "id": "281"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1778-1784",
         "edition-name": "Opera Aesthetica Szerdahelyana / Szerdahely György Alajos esztétikai írásai",
         "url": "http://deba.unideb.hu/deba/szerdahely/",
@@ -27987,7 +28589,9 @@
         "id": "282"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1790-1818",
         "edition-name": "Gyöngyössi János művei",
         "url": "http://deba.unideb.hu/deba/gyongyossi/",
@@ -28093,7 +28697,9 @@
         "id": "283"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1795-1835",
         "edition-name": "Berzsenyi Dániel levelezése",
         "url": "http://deba.unideb.hu/deba/berzsenyi/",
@@ -28199,7 +28805,9 @@
         "id": "284"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1736-1833",
         "edition-name": "Magyar írók levelezése",
         "url": "http://deba.unideb.hu/deba/levelezes/",
@@ -28307,7 +28915,9 @@
         "id": "285"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1736-1831",
         "edition-name": "A Ráday-család levelezése",
         "url": "http://deba.unideb.hu/deba/raday/",
@@ -28413,7 +29023,9 @@
         "id": "286"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1510",
         "edition-name": "Margit-legenda (Szent Margit élete, 1510)",
         "url": "http://deba.unideb.hu/deba/Margit-legenda_Szent_Margit_elete_1510/index.html",
@@ -28506,7 +29118,9 @@
         "id": "287"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1790",
         "edition-name": "Orpheus",
         "url": "http://deba.unideb.hu/deba/orpheus/",
@@ -28598,7 +29212,9 @@
         "id": "288"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1788-1793",
         "edition-name": "Magyar Museum",
         "url": "http://deba.unideb.hu/deba/magyar_museum/",
@@ -28690,7 +29306,10 @@
         "id": "289"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1910-1932",
         "edition-name": "DER STURM. Digitale Quellenedition zur Geschichte der internationalen Avantgarde",
         "url": "https://sturm-edition.de",
@@ -28793,7 +29412,9 @@
         "id": "290"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16/17",
         "edition-name": "Balassi Bálint összes verse (hálózati kritikai kiadás: version 1.0 and 2.0)",
         "url": "http://magyar-irodalom.elte.hu/gepesk/bbom/itart.htm",
@@ -28888,7 +29509,9 @@
         "id": "291"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "16/17",
         "edition-name": "Lelki énekekről régi magyarok",
         "url": "http://magyar-irodalom.elte.hu/gepesk/eloszo/",
@@ -28978,7 +29601,9 @@
         "id": "292"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1922-1957",
         "edition-name": "Szabó Lőrinc: Föld, erdő, isten; Kalibán; Fény, fény, fény; A sátán műremekei; Te meg a világ; Különbéke; Harc az ünnepért; Régen és most",
         "url": "http://krk.szabolorinc.hu/dokumentumok.htm",
@@ -29084,7 +29709,9 @@
         "id": "293"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1915-1916",
         "edition-name": "A Tett folyóirat (The Journal „A Tett”)",
         "url": "http://digiphil.hu/context:atett",
@@ -29178,7 +29805,9 @@
         "id": "294"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1888",
         "edition-name": "Mikszáth Kálmán összes művei 39",
         "url": "http://digiphil.hu/context:mkk39",
@@ -29273,7 +29902,9 @@
         "id": "295"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1871-1910",
         "edition-name": "Mikszáth Kálmán összes művei 42",
         "url": "http://digiphil.hu/context:mkk42",
@@ -29367,7 +29998,9 @@
         "id": "296"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1540-1840",
         "edition-name": "P.S. Post Scriptum: A Digital Archive of Ordinary Writing",
         "url": "http://ps.clul.ul.pt/",
@@ -29461,7 +30094,9 @@
         "id": "297"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1780-1825",
         "edition-name": "Jean Paul – Sämtliche Briefe digital",
         "url": "https://www.jeanpaul-edition.de/",
@@ -29553,7 +30188,9 @@
         "id": "298"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1180–1200",
         "edition-name": "Armer Heinrich Digital",
         "url": "http://digi.ub.uni-heidelberg.de/ahd/",
@@ -29658,7 +30295,9 @@
         "id": "299"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1607-1625",
         "edition-name": "Deux visages de L'Astrée",
         "url": "https://astree.tufts.edu",
@@ -29752,7 +30391,9 @@
         "id": "300"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1891-1931",
         "edition-name": "Hermann Bahr – Arthur Schnitzler: Briefwechsel, Aufzeichnungen, Dokumente (1891–1931)",
         "url": "https://bahrschnitzler.acdh.oeaw.ac.at",
@@ -29850,7 +30491,9 @@
         "id": "301"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1875-1914",
         "edition-name": "travel!digital",
         "url": "https://traveldigital.acdh.oeaw.ac.at/",
@@ -29951,7 +30594,9 @@
         "id": "302"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1818-1822",
         "edition-name": "Mächtekongresse 1818–1822. Digitale Edition der Dokumente zu den Kongressen von Aachen (1818), Troppau (1820), Laibach (1821) und Verona (1822)",
         "url": "https://maechtekongresse.acdh.oeaw.ac.at/",
@@ -30052,7 +30697,9 @@
         "id": "303"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "1949-1954",
         "edition-name": "Tagebücher von Andreas Okopenko. Digitale Edition",
         "url": "https://edition.onb.ac.at/okopenko",
@@ -30165,7 +30812,9 @@
         "id": "304"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "15th",
         "edition-name": "Ulrich Richental die Chronik des Konzils von Konstanz",
         "url": "https://edition.mgh.de/001/",
@@ -30275,7 +30924,9 @@
         "id": "305"
     },
     {
-        "historical-period": "Modern",
+        "historical-period": [
+            "Modern"
+        ],
         "time-century": "20th",
         "edition-name": "Franco-Hungarian literary relations in the 20th century/Les relations littéraires entre la France et la Hongrie au XXe siècle",
         "url": "http://frhu20.iti.btk.mta.hu/",
@@ -30374,7 +31025,10 @@
         "id": "306"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1905-1931",
         "edition-name": "Schnitzler Critical Digital Edition",
         "url": "https://www.arthur-schnitzler.de/edition/genetisch",
@@ -30464,7 +31118,9 @@
         "id": "307"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1730-1788",
         "edition-name": "Johann Georg Hamann: Kommentierte Briefausgabe",
         "url": "https://www.hamann-ausgabe.de",
@@ -30567,7 +31223,9 @@
         "id": "308"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1804-1872",
         "edition-name": "Grundtvigs Vaerker (The complete works of N.F.S. Grundtvig)",
         "url": "http://grundtvigsvaerker.dk",
@@ -30659,7 +31317,9 @@
         "id": "309"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1834-1861",
         "edition-name": "Die Korrespondenz von Leo von Thun-Hohenstein",
         "url": "https://thun-korrespondenz.acdh.oeaw.ac.at/",
@@ -30770,7 +31430,9 @@
         "id": "310"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "700 BC-600 AD",
         "edition-name": "Inscriptions of Greek Cyrenaica - Greek Verse Inscriptions of Cyrenaica",
         "url": "https://igcyr.unibo.it",
@@ -30925,7 +31587,9 @@
         "id": "311"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1177-1181",
         "edition-name": "Romualdus Beneventanus, Chronicon",
         "url": "http://www1.unipa.it/paolo.monella/romualdus/",
@@ -31017,7 +31681,9 @@
         "id": "312"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1837-1842",
         "edition-name": "Samuel Hahnemann - Digitale kritische Edition - Krankenjournal DF5",
         "url": "https://www.hahnemann-edition.de/index.html",
@@ -31112,7 +31778,10 @@
         "id": "313"
     },
     {
-        "historical-period": "Long Nineteenth Century; Modern",
+        "historical-period": [
+            "Long Nineteenth Century",
+            "Modern"
+        ],
         "time-century": "1889-1931",
         "edition-name": "Arthur Schnitzler – Briefwechsel mit Autorinnen und Autoren ",
         "url": "https://schnitzler-briefe.acdh.oeaw.ac.at ",
@@ -31207,7 +31876,9 @@
         "id": "314"
     },
     {
-        "historical-period": "Early Modern",
+        "historical-period": [
+            "Early Modern"
+        ],
         "time-century": "1567-1602",
         "edition-name": "Lazarraga eskuizkribua: edizioa eta azterketa",
         "url": "http://www.ehu.eus/monumenta/lazarraga/index.html ",
@@ -31288,7 +31959,9 @@
         "id": "315"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1799-1817",
         "edition-name": "Protokolle des Bayerischen Staatsrats ",
         "url": "https://www.bayerischer-staatsrat.de ",
@@ -31394,7 +32067,9 @@
         "id": "316"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "636-1000",
         "edition-name": "The glosses to the first book of the Etymologiae of Isidore of Seville: a digital scholarly edition ",
         "url": "https://db.innovatingknowledge.nl/edition ",
@@ -31531,7 +32206,10 @@
         "id": "317"
     },
     {
-        "historical-period": "Modern; Contemporary",
+        "historical-period": [
+            "Modern",
+            "Contemporary"
+        ],
         "time-century": "1900-2000",
         "edition-name": "In Search of the Drowned: Testimonies and Testimonial Fragments of the Holocaust ",
         "url": "https://lts.fortunoff.library.yale.edu/ ",
@@ -31676,7 +32354,9 @@
         "id": "318"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1789-1859",
         "edition-name": "Alexander von Humboldt: Sämtliche Schriften digital ",
         "url": "https://humboldt.unibe.ch/text ",
@@ -31784,7 +32464,9 @@
         "id": "319"
     },
     {
-        "historical-period": "Middle Ages",
+        "historical-period": [
+            "Middle Ages"
+        ],
         "time-century": "1475-1520",
         "edition-name": "Mystische Bücher in der Bibliothek der Kartause Erfurt. Digitale Edition ",
         "url": "https://making-mysticism.org/edition/1.0/html/ ",
@@ -31893,7 +32575,9 @@
         "id": "320"
     },
     {
-        "historical-period": "Contemporary",
+        "historical-period": [
+            "Contemporary"
+        ],
         "time-century": "1970-1990",
         "edition-name": "Peter Handke Notizbücher. Digitale Edition ",
         "url": "http://edition.onb.ac.at/handke-notizbuecher ",
@@ -32007,7 +32691,9 @@
         "id": "321"
     },
     {
-        "historical-period": "Long Nineteenth Century",
+        "historical-period": [
+            "Long Nineteenth Century"
+        ],
         "time-century": "1850-1863 ",
         "edition-name": "Gottfried Semper. Critical and Commented Edition",
         "url": "https://semper-edition.ch/ ",
@@ -32088,7 +32774,9 @@
         "id": "322"
     },
     {
-        "historical-period": "Antiquity",
+        "historical-period": [
+            "Antiquity"
+        ],
         "time-century": "700-1 BC",
         "edition-name": "Thesaurus Inscriptionum Raeticarum ",
         "url": "https://tir.univie.ac.at ",

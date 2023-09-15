@@ -4,7 +4,7 @@
     "fields": [
         {
             "name": "historical-period",
-            "type": "string",
+            "type": "string[]",
             "facet": true,
             "optional": true
         },
